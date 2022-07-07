@@ -305,7 +305,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="BERITA",France 24
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="BERITA",EURONEWS
-https://chgtrk.code-red.ru/hls/R24.m3u8
+http://iptvtree.net:8080/Fullitalia/52806fdf/14222
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="BERITA",CNN International
