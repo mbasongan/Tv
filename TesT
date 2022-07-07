@@ -483,12 +483,9 @@ http://watchtvfoot.com:80/live/QVVSVIMAZ6/TJXMGL1CTL/2623.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109/
-#EXTINF:-1 tvg-id="ARTMovies" ch-number="129" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="FILM",ART Movies
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2611/
-#EXTINF:-1 tvg-id="ColorsHD" ch-number="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="ASTRO",Colors
+#EXTINF:-1 tvg-id="ColorsHD" ch-number="116" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="ASTRO",Colors HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2309/
@@ -564,6 +561,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="ASTRO" ,BeIn Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="ASTRO" tvg-id="704" tvg-name="704",PrimeTime Channel HD
