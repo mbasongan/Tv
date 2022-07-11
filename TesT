@@ -6,8 +6,10 @@
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://uniyid.000webhostapp.com/logo/indosiar.png" group-title="INDONESIA",Indosiar
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176177
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176176
 http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9ba3e153ef8956d6e2b0684fcf74f58f&key=dbc28cb5c6426080f984a5b6d436bb30
