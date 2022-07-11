@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4310edb8b9ffe79abb40bacafa778ec3&key=aebb7e86d8a336d9a93d3dd8a41153cf
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-logo="https://uniyid.000webhostapp.com/logo/indosiar.png" group-title="INDONESIA",Indosiar
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA",Indosiar
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176177
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
@@ -329,7 +329,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/RCTV.png" group-title="MUSIK",VEVO
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MALAYSIA",TV1 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA",TV2
@@ -343,7 +343,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="MALAYSIA",TV5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA",TV6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA",NTV7
@@ -355,14 +355,14 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA",TV9
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA",TV OKEY
+#EXTINF:-1 tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/okey.jpg" group-title="MALAYSIA",TV OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb-sukmaindera-bn.png",RTB 1
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest/scale-to-width-down/250?cb=20190121072917" group-title="MALAYSIA",RTB 2
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="OLAHRAGA",TV SUKAN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="OLAHRAGA",TV SUKAN
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
