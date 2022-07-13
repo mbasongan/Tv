@@ -45,8 +45,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="INDONESIA",NET. 
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d022ff3be9391a16a8436261059806b0&key=e6dd32d6a257f900acb52a82d898bb81
 #EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="INDONESIA",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a31cf5136789514b7e12b9cc99307c84&key=980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
@@ -249,8 +251,6 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="ISLAMI",MAKKAH
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-#EXTINF:-1 tvg-logo="https://www.radiokitafm.com/wp-content/uploads/Radio-Kita-Tv-Logo.jpg" group-title="ISLAMI",RADIOKITATV
-https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C5u06cpXOQU/VxTk5G-6T-I/AAAAAAAAdV8/v4riT27ztz00VQhTsb85OFlFZeXm37QCQCLcB/s1600/surau-tv-logo.png" group-title="ISLAMI",Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mta_tv_id.png" group-title="ISLAMI",MTA TV
@@ -297,10 +297,12 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8?
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="HIBURAN",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="BERITA",Fox 
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="BERITA",DW
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a547a31e9c19c36f94d120a83f61f92d&key=7e86ccfba721e3297b73fc9e2b07628d
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="BERITA",Fox News
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="BERITA",TRT
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="BERITA",LN24
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="BERITA",EURONEWS
@@ -313,15 +315,15 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="BERITA",BBC
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abc-news-au.png" group-title="BERITA",Al Manar
-https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://arirang.com/images/index/arirang.png" group-title="BERITA",Rai News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="BERITA",DW
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/it-rai-news-24-1256-300x225.jpg" group-title="BERITA",Rai News
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Russia 24
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://seeklogo.com/images/R/rossiya-24-bashkortostan-logo-260AFBDDD0-seeklogo.com.png",Russia 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIK",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
