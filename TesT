@@ -294,11 +294,9 @@ http://iptvtree.net:8080/iptvromania2020/31e75bff/291241
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="HIBURAN",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8?
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="HIBURAN",SCM
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614685823-.png" group-title="FILM",SCM
+http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
 https://ott-navigator.my.id/usee23/index.m3u8?live=starchinesemovies&type=url&streamtype=hls
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a547a31e9c19c36f94d120a83f61f92d&key=7e86ccfba721e3297b73fc9e2b07628d
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="BERITA",Fox News
@@ -420,7 +418,7 @@ http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png" group-title="THAILAND",PPTV
 http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplex.co.th/images/logo/mungkorn.png" group-title="THAILAND",MWD
-http://203.81.84.130/hls/mwd_variety/index.m3u8
+http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/TV3_thai_ident_2019_transparent.png/revision/latest/scale-to-width-down/250?cb=20201018124116" group-title="THAILAND",CH3
 http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png" group-title="FILM",Action Cinema
@@ -429,7 +427,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="FILM" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png?v=2.0.0.13",IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585822039-.jpg" group-title="FILM",CHC
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585822039-.jpg" group-title="FILM",FLIK
 https://ott-navigator.my.id/usee23/index.mpd?live=flik&type=url&streamtype=dash
 http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
