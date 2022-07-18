@@ -54,7 +54,7 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ochannel.svg/400px-Ochannel.svg.png" group-title="INDONESIA",O Channel
-https://ott-navigator.my.id/vidio33/master.m3u8?channel=ochannel
+https://ott-navigator.my.id/vidionline/vidio_master.m3u8?channel=ochannel
 http://playlist.urfan.web.id/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://topcareer-id.cdn.ampproject.org/i/s/topcareer.id/wp-content/uploads/2020/07/Logo_bdg_tv_2016.png" group-title="INDONESIA",BandungTV
 http://202.150.153.254/bandungtv720p.m3u8
@@ -286,7 +286,8 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="ANAK",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/777815585350574080/vPz5Wv6J_400x400.jpg" group-title="HIBURAN",OnChannel
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/777815585350574080/vPz5Wv6J_400x400.jpg" group-title="HIBURAN",onChannel
+https://ott-navigator.my.id/vidio33/master.m3u8?channel=citrabioskop
 http://iptvtree.net:8080/iptvromania2020/31e75bff/291241
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -295,7 +296,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="HIBURAN",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614685823-.png" group-title="FILM",SCM
-http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
+#http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
 https://ott-navigator.my.id/usee23/index.m3u8?live=starchinesemovies&type=url&streamtype=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a547a31e9c19c36f94d120a83f61f92d&key=7e86ccfba721e3297b73fc9e2b07628d
