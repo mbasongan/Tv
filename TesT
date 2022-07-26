@@ -381,7 +381,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="FILM",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_360p/index.m3u8
+http://1tv1.net:8080/live/ali2222/123456/15136.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="BERITA",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HIBURAN",Blue Ant
@@ -402,8 +402,8 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="OLAHRAGA",SKY
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177368
 http://tv365.me:900/7439929587/4879165436/153717
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="OLAHRAGA",SporTV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177139
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="OLAHRAGA",MAV
+http://1tv1.net:8080/live/ali2222/123456/163793.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png/revision/latest/scale-to-width-down/175?cb=20180110040317" group-title="THAILAND",Amarin
 http://freelive2.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvfpDq.png" group-title="THAILAND",CH5
