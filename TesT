@@ -6,10 +6,8 @@
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA",Indosiar
-https://ott-navigator.my.id/vidio4/master.m3u8?channel=INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
-https://ott-navigator.my.id/vidio33/master.m3u8?channel=sctv
 http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9ba3e153ef8956d6e2b0684fcf74f58f&key=dbc28cb5c6426080f984a5b6d436bb30
@@ -54,7 +52,6 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ochannel.svg/400px-Ochannel.svg.png" group-title="INDONESIA",O Channel
-https://ott-navigator.my.id/vidio33/master.m3u8?channel=ochannel
 http://playlist.urfan.web.id/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://topcareer-id.cdn.ampproject.org/i/s/topcareer.id/wp-content/uploads/2020/07/Logo_bdg_tv_2016.png" group-title="INDONESIA",BandungTV
 http://202.150.153.254/bandungtv720p.m3u8
