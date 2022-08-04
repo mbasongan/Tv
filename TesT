@@ -284,7 +284,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="ANAK",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/777815585350574080/vPz5Wv6J_400x400.jpg" group-title="HIBURAN",Bioskop
-https://s.id/1dR5j
+https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=citrabioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="ANAK",ANIMAX
@@ -292,7 +292,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="HIBURAN",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614685823-.png" group-title="FILM",SCM
-https://bit.ly/3cYtVaV
+http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a547a31e9c19c36f94d120a83f61f92d&key=7e86ccfba721e3297b73fc9e2b07628d
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="BERITA",Fox News
