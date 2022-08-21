@@ -82,7 +82,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="OLAHRAGA",beIN Sports 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="OLAHRAGA",beIN Sports 6
-
+https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430452
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal+.svg/320px-Canal+.svg.png" group-title="OLAHRAGA",Canal+Motor
 http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="OLAHRAGA",TNT sport
@@ -397,7 +397,8 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="OLAHRAGA",SKY
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177368
 http://tv365.me:900/7439929587/4879165436/153717
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="OLAHRAGA",506
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="OLAHRAGA",Ziggo
+https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430550
 http://1tv1.net:8080/live/ali2222/123456/163793.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png/revision/latest/scale-to-width-down/175?cb=20180110040317" group-title="THAILAND",Amarin
 http://freelive2.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8
