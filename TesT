@@ -402,8 +402,8 @@ http://playlist.urfan.web.id/uq2663/h/h09/index.m3u8
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="OLAHRAGA",SKY
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177368
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="OLAHRAGA",5 0 6
-http://1tv1.net:8080/live/ali2222/123456/163793.ts
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="OLAHRAGA",ASSP
+https://ad2017.vhls.ru.com/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png/revision/latest/scale-to-width-down/175?cb=20180110040317" group-title="THAILAND",Amarin
 http://freelive2.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvfpDq.png" group-title="THAILAND",CH5
