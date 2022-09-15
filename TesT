@@ -1,11 +1,6 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg,http://m3u4u.com/epg/476rnmvk1rtvkd4yekgd" refresh="1440" max-conn="1" refresh="24"
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4310edb8b9ffe79abb40bacafa778ec3&key=aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-http://210.210.155.35:80/qwr9ew/s/s07/index.m3u8
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA",Indosiar
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
@@ -69,6 +64,10 @@ http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1536053191.m3u8
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="INDONESIA",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4310edb8b9ffe79abb40bacafa778ec3&key=aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/003/399/771/small/youtube-icon-editorial-free-vector.jpg" group-title="MUSIK",DangdutTiVi
 https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
