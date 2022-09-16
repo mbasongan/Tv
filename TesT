@@ -84,7 +84,8 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="OLAHRAGA",beIN Sports 6
 http://king-tv.online:8080/gisle@/FDPWGufCmY/383663.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal+.svg/320px-Canal+.svg.png" group-title="OLAHRAGA",Canal+Motor
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal+.svg/320px-Canal+.svg.png" group-title="OLAHRAGA",Canal+
+http://live.tv360.vn/manifest/VTV6_HD/playlist_480p.m3u8
 http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="OLAHRAGA",TNT sport
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
