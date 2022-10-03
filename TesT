@@ -396,7 +396,7 @@ http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114887_ico.png?ts=1661513958" group-title="HIBURAN",Citra Bioskop
-http://tvn.x10.mx/1/master-2.m3u8?dl=1
+http://tvn.x10.mx/1/master-11.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MUSIK",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
