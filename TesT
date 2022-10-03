@@ -54,6 +54,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://playlist.urfan.web.id/qwr9ew/s/s41/index.m3u8
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
+http://tvn.x10.mx/1/master-13.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/320px-Logo_BBS_TV_2018.png" group-title="INDONESIA",BBS
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -395,6 +396,7 @@ http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114887_ico.png?ts=1661513958" group-title="HIBURAN",Citra Bioskop
+http://tvn.x10.mx/1/master-2.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MUSIK",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
