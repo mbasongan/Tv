@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg,http://m3u4u.com/epg/476rnmvk1rtvkd4yekgd" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256304_ico.png?ts=1654801874" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="INDONESIA",ANTV
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA",Indosiar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="INDONESIA",Indosiar
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
@@ -15,7 +15,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=828e0aba9825c3546a2831e4c0c36f7f&key=f85d3dcd38981368ab3da597e97ebdcc
-#EXTINF:-1 tvg-logo=" https://static.epg.best/id/MNCTV.id.png" group-title="INDONESIA",MNC TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="INDONESIA",MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=88f6c7cbd793374cb5f12d7e26dcd63b&key=e82daa7c7bfb03d99327463fdbd37336
@@ -37,7 +37,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #EXTINF:-1 tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.androphedia.com/wp-content/uploads/2021/02/RTV.jpg" group-title="INDONESIA",RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="INDONESIA",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -59,10 +59,10 @@ http://tv.zonanime.my.id/vidio/ochannel.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png" group-title="INDONESIA" tvg-id="" tvg-name="", Bandung Tv
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-aFK-3tyS0j0/W_az0Aove9I/AAAAAAAAB6M/-WEt_zhWCvY3Yv5rUxZWr1stttxyz-64wCLcBGAs/s1600/bandung%2Btv.jpg" group-title="INDONESIA",Bandung Tv
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="INDONESIA",DMTV
-http://bravo.kugo.id:1935/dmtvmalang/rtmp.stream_360p/playlist.m3u8
+https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Tegartv.png" group-title="INDONESIA",Tegar TV
@@ -91,8 +91,7 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/383663.ts
 http://live.tv360.vn/manifest/VTV6_HD/playlist_480p.m3u8
 http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="OLAHRAGA",Match
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://s2.strea.ru/index.m3u8
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eeea0c2986e91a13eacd590ad1ebfe43&key=0acc16bd84921489f67bad19e4099cae
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="FILM",HBO HD
@@ -468,7 +467,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="OLAHRAGA",Motorsports
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177386
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20676583_ico.png?ts=1660430261" group-title="OLAHRAGA",Astro SuperSport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="OLAHRAGA",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 https://webui.vhls.ru.com/lb/premium43/index.m3u8
@@ -485,11 +484,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://bit.ly/3C5KIDk",Eurosport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://bit.ly/3LEFgKB",Eurosport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -497,8 +491,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="OLAHRAGA",True Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://sport.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="OLAHRAGA",ESPN 
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" group-title="OLAHRAGA",ESPN 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
