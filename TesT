@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg,http://m3u4u.com/epg/476rnmvk1rtvkd4yekgd" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,http://m3u4u.com/epg/476rnmvk1rtvkd4yekgd" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="INDONESIA",ANTV
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
