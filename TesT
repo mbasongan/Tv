@@ -45,7 +45,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d022ff3be9391a16a8436261059806b0&key=e6dd32d6a257f900acb52a82d898bb81
-#EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="INDONESIA",Berita Satu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/320px-BTV_%28Indonesia%29_logo.svg.png" group-title="INDONESIA",Berita Satu
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a31cf5136789514b7e12b9cc99307c84&key=980e54d671ffc2b2f4cf54e75cae0ac2
