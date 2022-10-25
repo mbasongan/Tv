@@ -429,7 +429,7 @@ http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png" group-title="THAILAND",PPTV
 http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplex.co.th/images/logo/mungkorn.png" group-title="THAILAND",HTV
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/TV3_thai_ident_2019_transparent.png/revision/latest/scale-to-width-down/250?cb=20201018124116" group-title="THAILAND",CH3
 http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnd-film-travel-of-the-discovery-cn.png" group-title="FILM",Action Cinema
