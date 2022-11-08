@@ -13,7 +13,6 @@ http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNC TV
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 https://live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="INDONESIA",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
@@ -287,7 +286,6 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="HIBURAN",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614685823-.png" group-title="FILM",Star Chinese Movies
-http://23.237.10.66:16010
 http://iptvid.my.id/hmm/starcm.m3u8|user-agent=WMFSDK/12.00.9651.0000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -357,7 +355,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8
 #EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-http://51.79.82.208:16013
+http://51.79.82.208:16008
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA",Astro Awani HD
@@ -368,7 +366,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIb0JIaGpCSFlnMVk2OEN3MS10b0c4Y2l6c1NPRS0xNUJraHY1WDM4WVNOaWZOV0ZSZmZmUXFyc0k0WlJWUHRYQ0lweWdBcXVadk5oRks3enZuaTJaOEpBTGlzZHNJajdUaWhjRW1aUGtWcFVHZmRPbG9KTG83cEJNaWJlWklEa3NySVJwR3Z2SzdKVUtHUVpzQ21iM3Vlb3VUcDdzb3F5cmF2cFpYYXF5bElHeUtaVVhZZkJlZF9nZUVURFdHamNiN3hBSzljZ3c2N2lBZUZWWTVTd3dGWWRTVHM5TmdrdHA0emxTTTZlUnlCNmRlVTNBbWdlWjJ5dEl6VmJXM1dnNEVOTXlhVGJGZkxTOFUwVU9JNkFkTEdFRUtlU0ZEb0RGSHV4UjNndXMtZktOLXhoN0k4SlJOOW1KS0FuSm9kcEZYUmV3c3hfQmlDZ1E0RHNRekxvU1ZwekVhZEVvRlNDUTd4VEZhSW5XOXMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV8yMDIyX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSG9CSGhqQkhZZzFZNjhDdzEtdG9HOGNpenNTT0UtMTVCa2h2NVgzOFlTTmlmTldGUmZmZlFxcnNJNFpSVlB0WENJcHlnQXF1WnZOaEZLN3p2bmkyWjhKQUxpc2RzSWo3VGloY0VtWlBrVnBVR2ZkT2xvSkxvN3BCTWliZVpJRGtzcklScEd2dks3SlVLR1Fac0NtYjN1ZW91VHA3c29xeXJhdnBaWGFxeWxJR3lLWlVYWWZCZWRfZ2VFVERXR2pjYjd4QUs5Y2d3NjdpQWVGVlk1U3d3RllkU1RzOU5na3RwNHpsU002ZVJ5QjZkZVUzQW1nZVoyeXRJelZiVzNXZzRFTk15YVRiRmZMUzhVMFVPSTZBZExHRUVLZVNGRG9ERkh1eFIzZ3VzLWZLTi14aDdJOEpSTjltSktBbkpvZHBGWFJld3N4X0JpQ2dRNERzUXpMb1NWcHpFYWRFb0ZTQ1E3eFRGYUluVzlzIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=r0jN0NJEO9h1fTOZzVFsBakWfYA%3d
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/640px-Mediacorp_Suria_logo.svg.png",SURIA HD
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="FILM",MBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="FILM",Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="BERITA",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
@@ -456,7 +454,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="OLAHRAGA",Astro SuperSport 5 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.vhls.ru.com/lb/premium43/index.m3u8
+https://webui.vhls.ru.com/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="OLAHRAGA",True Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
