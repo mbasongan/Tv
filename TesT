@@ -470,3 +470,7 @@ https://webudi.openhd.lol/lb/premium43/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="OLAHRAGA",True Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://makanja.xyz/clearkey/astro/5054 
+#EXTINF:-1 tvg-id="413" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshhyQh_svXLHTq1uAUk0tECPB7T5KIRNnFCzUdsmLKZoTGPtSD9CubqU&s=10" group-title="Movie",SHOWCASE MOVIES
+http://1.makanja.online/dash-wv/linear/5054/default_primary.mpd
