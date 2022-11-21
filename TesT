@@ -341,7 +341,7 @@ http://51.79.82.208:16003
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/watch?v=ZJ4GIloLxRo
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA",NTV7
 http://51.79.82.208:16004
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA",8TV
@@ -356,7 +356,7 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 http://51.79.82.208:16006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",TV OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb-sukmaindera-bn.png",SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest/scale-to-width-down/250?cb=20190121072917" group-title="MALAYSIA",ANEKA
@@ -470,7 +470,8 @@ https://webudi.openhd.lol/lb/premium43/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="OLAHRAGA",True Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://makanja.xyz/clearkey/astro/5054 
-#EXTINF:-1 tvg-id="413" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshhyQh_svXLHTq1uAUk0tECPB7T5KIRNnFCzUdsmLKZoTGPtSD9CubqU&s=10" group-title="FILM",SHOWCASE MOVIES
-http://1.makanja.online/dash-wv/linear/5054/default_primary.mpd
+
+
+
+
+
