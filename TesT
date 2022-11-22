@@ -6,7 +6,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="INDONESIA",ANTV
 https://live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="INDONESIA",Indosiar
-http://tvn.x10.mx/1/master-11.m3u8?dl=1
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -59,7 +58,7 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/c403f3ca/0649.PNG" group-title="INDONESIA",Bandung Tv
 https://live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="INDONESIA",DMTV
-https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
+https://h1.intechmedia.net/intech/ch51.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1dYfQ" group-title="INDONESIA",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="INDONESIA",TVRI
@@ -289,8 +288,8 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="HIBURAN",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614685823-.png" group-title="FILM",Star Chinese Movies
-http://iptvid.my.id/hmm/starcm.m3u8|user-agent=WMFSDK/12.00.9651.0000
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614685823-.png" group-title="FILM",Chinese Movies
+https://m3u-editor.com/serve/dbfbb4b0-63cb-11ed-a48c-e96944544a3a/686690234
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="BERITA",Fox News
@@ -336,8 +335,8 @@ http://51.79.82.208:16002
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 http://51.79.82.208:16003
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="MALAYSIA",TVS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/watch?v=ZJ4GIloLxRo
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="MALAYSIA",TV5
+http://w.nasvpn.xyz:8080/live/aaaa/aaaa/13948.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
@@ -363,8 +362,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="OLAHRAGA",TV SUKAN
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8
-#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Astro Prima HD
-http://51.79.82.208:16008
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
+http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA",Astro Awani HD
@@ -384,7 +383,6 @@ http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png" group-title="FILM",Citra Bioskop
-http://tvn.x10.mx/1/master.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MUSIK",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
