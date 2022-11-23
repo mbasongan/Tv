@@ -326,9 +326,9 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/8-81371_top-music-red-logo-png-logo-top-music.png" group-title="MUSIK" tvg-id="" tvg-name="",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MALAYSIA",TV1 HD
-http://51.79.82.208:16001
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA",TV2 HD
-http://51.79.82.208:16002
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
@@ -360,7 +360,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="OLAHRAGA",TV SUKAN
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=2
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim
