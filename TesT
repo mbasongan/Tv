@@ -87,10 +87,12 @@ https://live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://prtimes.jp/i/14079/329/resize/d14079-329-732232-2.jpg" group-title="OLAHRAGA",JSports
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/VTV6_logo.png/320px-VTV6_logo.png" group-title="THAILAND",VTV6
-http://live.tv360.vn/manifest/VTV6_HD/playlist_480p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/VTV6_logo.png/320px-VTV6_logo.png" group-title="THAILAND",VTV
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5/vtv5@mid.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="OLAHRAGA",Match
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="FILM",& flix
+https://aqfadtv.xyz/live/&flix/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="FILM",HBO HD
