@@ -335,7 +335,10 @@ http://w.nasvpn.xyz:8080/live/aaaa/aaaa/13948.ts
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA",NTV7
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 http://51.79.82.208:16004
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -429,7 +432,7 @@ https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/I
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="FILM",MyFamilyChannel
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFo_QeYYLKOJ8B0nksq9xhtsW4buXpqKeHw&usqp=CAU" group-title="THAILAND" tvg-id="" tvg-name="",CH7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TV7_logo.png/254px-TV7_logo.png" group-title="THAILAND" tvg-id="" tvg-name="",CH7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -453,7 +456,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="OLAHRAGA",Motorsports
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177386
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="OLAHRAGA",SBS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/SBS_logo.svg/640px-SBS_logo.svg.png" group-title="OLAHRAGA",SBS HD
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="OLAHRAGA",True Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
