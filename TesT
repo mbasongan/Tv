@@ -399,18 +399,18 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=8" group-title="THAILAND",MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/1200px-Cinemo_logo_vectorized.svg.png" group-title="THAILAND",CINEMO!
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="THAILAND",KAPAMILYA
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://true4u.com/images/logo.png" group-title="THAILAND",true4u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png" group-title="THAILAND",PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="THAILAND",MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/67/SMNI_Logo_2010.png" group-title="THAILAND",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="THAILAND",CINEMA ONE 
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8?
+https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplex.co.th/images/logo/mungkorn.png" group-title="THAILAND",ONCINE
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/TV3_thai_ident_2019_transparent.png/revision/latest/scale-to-width-down/250?cb=20201018124116" group-title="THAILAND",CH3
@@ -427,7 +427,6 @@ https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/I
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFo_QeYYLKOJ8B0nksq9xhtsW4buXpqKeHw&usqp=CAU" group-title="THAILAND" tvg-id="" tvg-name="",CH7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8
-http://humiptv.live:8080//live/500757885/3356646354/73855.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="FILM",Galaxy
