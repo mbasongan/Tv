@@ -10,10 +10,10 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8|User-Agent=Lavf/56.15.102
 http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="INDONESIA",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d1akid76fpbq4x.cloudfront.net/RCTI_2021.m3u8
+https://d1akid76fpbq4x.cloudfront.net/RCTI2021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV2021.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="INDONESIA",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
