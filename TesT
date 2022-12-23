@@ -289,7 +289,7 @@ https://av-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="BERITA",TRT
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="BERITA",France24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
+http://210.210.155.35/qwr9ew/s/s22/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="BERITA",EURONEWS
 https://euronews.alteox.app/hls/ru_stream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,13 +301,11 @@ https://av-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternati
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="BERITA",BBC
 https://av-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="BERITA",DW
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+http://210.210.155.35/x6bnqe/s/s25/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="BERITA",Rai News
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
-https://av-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CCTV
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://statik.tempo.co/data/2010/03/19/id_29101/29101_620.jpg",Prambors
 http://iptvid.my.id/hmm/prambors.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIK",9XM
@@ -374,6 +372,9 @@ https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6S
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="BERITA",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
+#EXTINF:-1 tvg-id="UATV.Id" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032021/logo_uatv.png?4IfIbwTNnFz0cTnzqyp2IBbrqEqlah35&itok=tRVTXiMu" group-title="BERITA",UATV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://210.210.155.37/uq2663/h/h101/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HIBURAN",Blue Ant
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35:80/dr9445/h/h16/index.m3u8
