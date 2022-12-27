@@ -38,7 +38,7 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8|User-Agent=Lavf/56.15.102
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
 https://d-inews.rctiplus.id/INEWS2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="INDONESIA",O Channel
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="INDONESIA",MOJI/O Channel
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/320px-Logo_BBS_TV_2018.png" group-title="INDONESIA",BBS
 http://103.119.54.246:8080/hls/bbstv.m3u8
