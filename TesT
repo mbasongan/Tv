@@ -36,8 +36,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/320px-BTV_%28Indonesia%29_logo.svg.png" group-title="INDONESIA",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
-https://d-inews.rctiplus.id/INEWS2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="INDONESIA",MOJI/O Channel
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/320px-Logo_BBS_TV_2018.png" group-title="INDONESIA",BBS
@@ -69,7 +71,7 @@ https://av-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
 http://ku03.wanicelife.com:8880/12mm070056/67571551/1703
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="OLAHRAGA",beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="OLAHRAGA",beIN Sports Extra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prtimes.jp/i/14079/329/resize/d14079-329-732232-2.jpg" group-title="OLAHRAGA",JSports
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
