@@ -18,13 +18,13 @@ https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="INDONESIA",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="INDONESIA",TRANSTV
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="INDONESIA",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="INDONESIA",TRANS7
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="INDONESIA",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="INDONESIA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
 http://210.210.155.37/qwr9ew/s/s105/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="INDONESIA",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
@@ -162,7 +162,7 @@ https://av-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" group-title="HIBURAN",DRAGON TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" group-title="HIBURAN",Shanghai Dragon TV
 https://av-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -346,7 +346,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA",TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",TV OKEY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
@@ -354,7 +354,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest/scale-to-width-down/250?cb=20190121072917" group-title="MALAYSIA",ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="OLAHRAGA",TV SUKAN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="OLAHRAGA",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
@@ -364,7 +364,7 @@ http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA",Astro Awani HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/640px-Mediacorp_Suria_logo.svg.png",SURIA HD
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/640px-Mediacorp_Suria_logo.svg.png",SURIA
 http://23.237.10.66:16492
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://assets.theedgemarkets.com/suketv.jpg",SUKE TV
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
@@ -375,10 +375,10 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="UATV.Id" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032021/logo_uatv.png?4IfIbwTNnFz0cTnzqyp2IBbrqEqlah35&itok=tRVTXiMu" group-title="BERITA",UATV
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/uq2663/h/h101/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HIBURAN",Blue Ant Action
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HIBURAN",Blue Ant Entertaiment HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35:80/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="HIBURAN",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="HIBURAN",Blue Ant Extreme HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35:80/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MUSIK",E24
@@ -395,7 +395,7 @@ https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchanne
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177368
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
 https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png/revision/latest/scale-to-width-down/175?cb=20180110040317" group-title="THAILAND",VTV3
 http://171.238.181.52:18080/155.m3u8
