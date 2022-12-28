@@ -472,7 +472,8 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8|User-Agent=Lavf/56.15.102
 https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1379383960120217600/n83jJ0cB_200x200.jpg" group-title="OLAHRAGA",MotoRacing
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/1.m3u8
-
+#EXTINF:-1 tvg-id="762" group-title="FILM" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD 
+https://tv.googledrivelinks.com:443/autoq.php?c=Sony_Pix_HD
  
 
 
