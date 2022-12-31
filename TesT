@@ -70,6 +70,7 @@ https://av-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,Astro Arena
+https://m3u-editor.com/serve/8f1d62f0-8804-11ed-a2a3-c98aef0ecad1/727104499
 http://ku03.wanicelife.com:8880/12mm070056/67571551/1703
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="OLAHRAGA",beIN Sports Extra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
