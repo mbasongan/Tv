@@ -89,7 +89,7 @@ http://171.238.181.52:18080/192.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="OLAHRAGA",Horizon
 http://210.210.155.37/uq2663/h/h282/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="FILM",& flix
-https://aqfadtv.xyz/live/&flix/index.m3u8
+http://watchindia.net:8880/live/14100/70701/2088.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="FILM",HBO 
@@ -478,8 +478,8 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8|User-Agent=Lavf/56.15.102
 https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1379383960120217600/n83jJ0cB_200x200.jpg" group-title="OLAHRAGA",MotoRacing
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/1.m3u8
-#EXTINF:-1 tvg-id="762" group-title="FILM" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix 
-http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61129
+#EXTINF:-1 tvg-id="762" group-title="FILM" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",StarMovies
+http://watchindia.net:8880/live/14100/70701/2080.ts
  
 
 
