@@ -90,7 +90,7 @@ http://171.238.181.52:18080/192.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="OLAHRAGA",Horizon
 http://210.210.155.37/uq2663/h/h282/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="FILM",& flix
-http://watchindia.net:8880/live/14100/70701/2088.ts
+http://starshare.live:8080/786786786786/786786786786/253
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="FILM",HBO 
