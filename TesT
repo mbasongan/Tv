@@ -497,10 +497,9 @@ https://malay.bystreamtv.workers.dev/dash-wv/linear/5054/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/sony
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="FILM",StarMovies
 http://play.cornertv.biz.id:8080/live/BGtomi/54321/57.ts
 http://watchindia.net:8880/live/14100/70701/2080.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLV5vT6b/citrabioskop.png" group-title="FILM",Citra Bioskop
-https://bystream.my.id/pidio/citbi/citbi.m3u8
  
 
 
