@@ -368,11 +368,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
 https://malay.bystreamtv.workers.dev/dash-wv/linear/211/default_primary.mpd
-http://ku03.wanicelife.com:8880/12mm070056/67571551/71149
-http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5021/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TVS
-http://ku03.wanicelife.com:8880/12mm070056/67571551/71148
-http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+https://malay.bystreamtv.workers.dev/dash-wv/linear/5021/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA",Astro Awani HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
