@@ -80,7 +80,7 @@ http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png" group-title="OLAHRAGA",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/eroz_brebes.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="OLAHRAGA",Eurosport HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqFJf3/eurosport1.webp" group-title="OLAHRAGA",Eurosport HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="OLAHRAGA",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
@@ -340,10 +340,6 @@ https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA",NTV7
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
@@ -357,6 +353,8 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb-sukmaindera-bn.png",SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png/revision/latest/scale-to-width-down/250?cb=20220404054913" group-title="MALAYSIA",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest/scale-to-width-down/250?cb=20190121072917" group-title="MALAYSIA",ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx2dVtt4/SUKAN-RTM-1.jpg" group-title="OLAHRAGA",SUKAN RTM
@@ -401,7 +399,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1 tvg-logo="https://totaltele.com/wp-content/uploads/2022/06/sky-logo.jpg" group-title="OLAHRAGA",SKY
+#EXTINF:-1 tvg-logo="https://totaltele.com/wp-content/uploads/2022/06/sky-logo.jpg" group-title="OLAHRAGA",skyMotogp
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177368
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -459,7 +457,7 @@ https://malay.bystreamtv.workers.dev/dash-wv/linear/5058/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="OLAHRAGA",SPOTV2
 https://anv-livechannel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPZ2d0c.png" group-title="OLAHRAGA",Ziggo Select
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPZ2d0c.png" group-title="OLAHRAGA",Ziggo 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/ziggosport/select
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manifest.mpd
@@ -467,7 +465,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manife
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", group-title="OLAHRAGA",FOX SPORTS
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png" group-title="OLAHRAGA",SuperSports
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/ssmotorsport.png" group-title="OLAHRAGA",SuperSports
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177386
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1660522783" group-title="FILM",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8|User-Agent=Lavf/56.15.102
