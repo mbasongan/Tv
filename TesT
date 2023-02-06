@@ -173,7 +173,10 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manife
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058/
 #EXTINF:-1 tvg-id="SPOTV" group-title="OLAHRAGA" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 https://malay.bystreamtv.workers.dev/dash-wv/linear/5058/default_primary.mpd
-
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5097/
+https://malay.bystreamtv.workers.dev/dash-wv/linear/5097/default_primary.mpd
 
 
 
