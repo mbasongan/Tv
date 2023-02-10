@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://aqfadtv.xyz/epg,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="INDONESIA",ANTV
