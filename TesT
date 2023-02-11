@@ -60,7 +60,7 @@ http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="INDONESIA",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-https://bystream.my.id/pidio/mentari/mentari.m3u8
+https://mooncang.my.id/api/vidio/ch.m3u8?id=8237
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqFJf3/eurosport1.webp" group-title="OLAHRAGA",Eurosport HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="OLAHRAGA",FOX SPORTS
