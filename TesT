@@ -167,9 +167,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manife
 #EXTINF:-1 tvg-id="SPOTV" group-title="OLAHRAGA" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 https://malay.bystreamtv.workers.dev/dash-wv/linear/5058/default_primary.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096/
-https://malay.bystreamtv.workers.dev/dash-wv/linear/5096/default_primary.mpd
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="HIBURAN",Animal Planet HD
