@@ -155,11 +155,11 @@ https://av-live-cdn-02-proz.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash
 #EXTINF:-1 tvg-id="ParamountNetwork" group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png" ch-number="713",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/5056
-https://malay.bystreamtv.workers.dev/dash-wv/linear/5056/default_primary.mpd
+https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5056/default_primary.mpd
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/5054
-https://malay.bystreamtv.workers.dev/dash-wv/linear/5054/default_primary.mpd
+https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/sony
@@ -171,7 +171,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058/
 #EXTINF:-1 tvg-id="SPOTV" group-title="OLAHRAGA" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
-https://malay.bystreamtv.workers.dev/dash-wv/linear/5058/default_primary.mpd
+https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5058/default_primary.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
