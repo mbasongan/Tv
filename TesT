@@ -60,7 +60,7 @@ http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="INDONESIA",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-https://mooncang.my.id/api/vidio/ch.m3u8?id=8237&code=mentari-tv
+hhttps://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/yxgzbtsddfwh8rx/flik.png" group-title="HIBURAN",FLIK
 http://103.226.232.170:9002/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqFJf3/eurosport1.webp" group-title="OLAHRAGA",Eurosport HD
@@ -137,7 +137,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
-https://malay.bystreamtv.workers.dev/dash-wv/linear/211/default_primary.mpd
+https://kntl69.mammothtv.workers.dev/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="HIBURAN",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="HIBURAN",Arabica 
