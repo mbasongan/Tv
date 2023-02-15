@@ -118,7 +118,7 @@ https://av-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="HIBURAN",Nick jr
 https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="HIBURAN",France24
-http://210.210.155.35/qwr9ew/s/s22/index.m3u8|User-Agent=Lavf/56.15.102
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/@FRANCE24/live
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="HIBURAN",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="HIBURAN",Maleo
