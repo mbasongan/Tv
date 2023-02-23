@@ -150,6 +150,10 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://210.210.155.37/uq2663/h/h09/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://totaltele.com/wp-content/uploads/2022/06/sky-logo.jpg" group-title="OLAHRAGA",skyMotogp
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177368
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
+https://anevi-live-channel-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="HIBURAN",CINEMAONE 
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
