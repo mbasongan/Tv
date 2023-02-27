@@ -66,7 +66,7 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="OLAHRAGA",Astro SuperSport 5 HD
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5059/default_primary.mpd
+https://kntl69.mammothtv.workers.dev/dash-wv/linear/5059/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqFJf3/eurosport1.webp" group-title="OLAHRAGA",Eurosport HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="OLAHRAGA",FOX SPORTS
@@ -165,7 +165,7 @@ https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5056/default_primary.mpd
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/5054
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5054/default_primary.mpd
+https://kntl69.mammothtv.workers.dev/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -177,7 +177,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058/
 #EXTINF:-1 tvg-id="SPOTV" group-title="OLAHRAGA" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV 
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5058/default_primary.mpd
+https://kntl69.mammothtv.workers.dev/dash-wv/linear/5058/default_primary.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
