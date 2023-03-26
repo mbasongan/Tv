@@ -183,8 +183,24 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="HIBURAN",Animal Planet HD
 https://nxanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="HIBURAN",Lotus
 http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="OLAHRAGA",CCTV 5
+https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
