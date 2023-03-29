@@ -115,9 +115,9 @@ https://h1.intechmedia.net/intech/ch8.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="HIBURAN",KIDS TV
 https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="HIBURAN",Nickelodeon Junior
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/9982/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Nickelodeon
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="HIBURAN",Nickelodeon
+https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="HIBURAN",France24
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/@FRANCE24/live
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="HIBURAN",9XM
@@ -155,10 +155,6 @@ https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png?v=2.0.0.13",IMC
 https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
