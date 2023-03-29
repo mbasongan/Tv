@@ -64,10 +64,8 @@ http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://insverpro.my.id/play.m3u8?id=8237&key=vidio&type=hls&username=nurdin
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="OLAHRAGA",Astro SuperSport 5 HD
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5059/default_primary.mpd
+https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqFJf3/eurosport1.webp" group-title="OLAHRAGA",Eurosport HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="OLAHRAGA",FOX SPORTS
@@ -76,8 +74,8 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="HIBURAN",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://capy.mammothtv.workers.dev/dash-wv/linear/2304/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/hbo-2
+https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HIBURAN",HBO HITS 
@@ -90,9 +88,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBGc1t2.jpg" group-title="HIBURAN",Warner TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="HIBURAN",AXN HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="HIBURAN",StarMovies HD
 https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/starmoviehd.m3u8
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="HIBURAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -126,7 +122,7 @@ https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/9982/default_primary.mpd
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/@FRANCE24/live
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="HIBURAN",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="HIBURAN",Maleo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="HIBURAN",MTV
 http://103.167.167.5:8111/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="HIBURAN",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
@@ -142,7 +138,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
-https://capy.mammothtv.workers.dev/dash-wv/linear/211/default_primary.mpd
+https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="HIBURAN",Al Jazeera English
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="HIBURAN",Arabica 
@@ -161,7 +157,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/5054
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
 https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
