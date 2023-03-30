@@ -43,7 +43,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
 https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="INDONESIA",MOJI
-http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls&username=nurdin
+#http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls&username=nurdin
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -62,6 +62,7 @@ http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="INDONESIA",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
 http://insverpro.my.id/play.m3u8?id=8237&key=vidio&type=hls&username=nurdin
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="OLAHRAGA",Astro SuperSport 5 HD
 https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
