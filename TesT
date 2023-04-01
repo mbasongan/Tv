@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="INDONESIA",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="INDONESIA",Indosiar
+http://tvnid.x10.mx/1/master.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 https://sub.home-tv.my.id/first/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="INDONESIA",SCTV
@@ -128,7 +129,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
-https://pencuri.mammothtv.workers.dev/dash-wv/linear/211/default_primary.mpd
+https://janda.kutubusuk.workers.dev/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="HIBURAN",Al Jazeera English
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="MUSIK",Arabica 
