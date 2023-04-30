@@ -111,7 +111,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="HIBURAN",Nickelodeon HD
 https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="HIBURAN",France24
-http://176.222.190.76/btv/SWM/SWM_France24_test/SWM_France24.m3u8
+http://210.210.155.37/qwr9ew/s/s22/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIK",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="HIBURAN",TV2 HD
