@@ -159,8 +159,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPZ2d0c.png" group-title="OLAHRAGA",Setanta
-http://176.222.190.76/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/spotvnow/spotv_asia/
 #EXTINF:-1 tvg-id="SPOTV" group-title="OLAHRAGA" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
@@ -184,6 +182,10 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=1088590917281_image-header_pDach_1661949223000&quality=70" group-title="OLAHRAGA",EuroSport HD
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=2c4987a78120e3166889a9115d88aa9a:3246e4509fe89449f820d347c081544d
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
 
 
