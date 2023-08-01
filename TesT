@@ -185,18 +185,20 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 https://webudit.cdnhks.lol/lb/premium396/index.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFgjbsQzU46OAMysAFoBdipo9nj4ukfNj9Q&usqp=CAU" group-title="OLAHRAGA",Sports 18 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="HIBURAN",SONY MAX 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="HIBURAN",SONY MAX
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MyFamily
-#EXTINF:-1 tvg-id="MyFamilyChannel" tvg-logo="https://aqfadtv.xyz/logos/MyFamilyChannel.png",My Family Channel
+#EXTINF:-1 tvg-id="MyFamilyChannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifCawZnmex_pA2lnT7jpq_fAJgIVBN_YnKA&usqp=CAU",My Family Channel
 https://anevia115.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTINF:-1 tvg-id="413.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="Movies",Showcase Movies
 http://1.yurend.xyz/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png",Sukan RTM
-https://live.mana2.my/SukanRtm/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
+
 
 
 
