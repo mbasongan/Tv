@@ -182,7 +182,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium396/index.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFgjbsQzU46OAMysAFoBdipo9nj4ukfNj9Q&usqp=CAU" group-title="OLAHRAGA",Sports
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/640px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",Sports
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="HIBURAN",SONY MAX
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
