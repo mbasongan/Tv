@@ -62,7 +62,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/us/image?id=762962501269_image-header_pDach_1662550975000&quality=70" group-title="HIBURAN",WOWTV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="HIBURAN" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="154",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AXN 
