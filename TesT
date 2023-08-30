@@ -48,13 +48,10 @@ https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="LOKAL",MOJI
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMoE9T8e3-LWMY1EH3GOqUYypSnvwsuPikpQabQ_OJ7jMz5HVF2zW9v-qX2ZzNa8oO3cJ73QnNHbqa9lr9nXqE_yXbGou0DIHF-YG4URkNBhspqwlswLnS05Wp94KxAPrjccHuv_EO06mVx4VW5gOK1qqEECrNntrltwocA1QpxrRJyhmdw1jhhVyNzQ=s1024" group-title="MUSIK",Lagu
-http://103.166.27.2:800/play/a01x
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="LOKAL",MDTV
 https://h1.intechmedia.net/intech/ch51.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/index.m3u8
+ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/20/51/27/205127b0a765f7a45ef9ad3e4f8a6112.jpg" group-title="LOKAL",Puja TV
 https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
@@ -63,6 +60,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/308px-FiCom_symbol_logo.jpg" group-title="LOKAL",Ficom
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMoE9T8e3-LWMY1EH3GOqUYypSnvwsuPikpQabQ_OJ7jMz5HVF2zW9v-qX2ZzNa8oO3cJ73QnNHbqa9lr9nXqE_yXbGou0DIHF-YG4URkNBhspqwlswLnS05Wp94KxAPrjccHuv_EO06mVx4VW5gOK1qqEECrNntrltwocA1QpxrRJyhmdw1jhhVyNzQ=s1024" group-title="MUSIK",LaguTV
+http://103.166.27.2:800/play/a01x
 #EXTINF:-1 tvg-id="AXN" group-title="HIBURAN" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="154",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AXN 
