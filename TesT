@@ -61,7 +61,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/308px-FiCom_symbol_logo.jpg" group-title="LOKAL",Ficom
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMoE9T8e3-LWMY1EH3GOqUYypSnvwsuPikpQabQ_OJ7jMz5HVF2zW9v-qX2ZzNa8oO3cJ73QnNHbqa9lr9nXqE_yXbGou0DIHF-YG4URkNBhspqwlswLnS05Wp94KxAPrjccHuv_EO06mVx4VW5gOK1qqEECrNntrltwocA1QpxrRJyhmdw1jhhVyNzQ=s1024" group-title="MUSIK",LaguTV
-http://103.166.27.2:800/play/a01x
+http://103.166.27.2:800/play/a01u
 #EXTINF:-1 tvg-id="AXN" group-title="HIBURAN" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="154",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AXN
@@ -128,7 +128,8 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8|User-Agent=Lavf/56.15.102
 https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="HIBURAN",CINEMAONE
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff0175de4453980cf5/ab7212269b0a4780be13f498fd269bfa.png" group-title="HIBURAN",FLIK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/endrisusilo/endro/blob/main/flik.jpg?raw=true" group-title="HIBURAN",FLIK
+http://194.233.78.163:8585/live/853581B861D751F07D6C74BC02C04F21/133.ts
 https://s.id/1SA2B
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK",Musik
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
