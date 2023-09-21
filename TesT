@@ -1,10 +1,7 @@
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/ANTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="LOKAL",ANTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-https://anevia115.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
@@ -15,19 +12,19 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/RCTI-DD
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="LOKAL",RCTI
-https://anevia115.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="LOKAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/MNCTV-HD 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
-https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="LOKAL",NET TV
 http://210.210.155.35/uq2663/h/h06/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/GTV-HD
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="LOKAL",GTV
-https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="LOKAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="LOKAL",CNN Indonesia 
@@ -45,7 +42,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/iNewsTV-HDD
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNEWS
-https://anevia115.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="LOKAL",MOJI
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
@@ -76,7 +73,7 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="HIBURAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="HIBURAN",TVN Movies 
 http://210.210.155.35/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movies 
@@ -90,7 +87,7 @@ https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="HIBURAN",National Geographic Wild
-https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="HIBURAN",AlWafa
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hijrah-tv-ng.png" group-title="HIBURAN",Makkah 
@@ -99,11 +96,11 @@ http://210.210.155.35/qwr9ew/s/s28/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="HIBURAN",KIDS TV
-https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/Nickelodeon
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="HIBURAN",Nickelodeon HD
-https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="HIBURAN",France24
 http://210.210.155.35/qwr9ew/s/s22/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIK",9XM
@@ -127,7 +124,7 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/GalaxyPremium-HD
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
-https://anevia115.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="HIBURAN",CINEMAONE
 http://183.89.246.119:8881/play/a082/index.m3u8
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
@@ -140,7 +137,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png?v=2.0.0.13",IMC
-https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix 
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -158,7 +155,6 @@ https://h1.intechmedia.net/intech/ch26.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="CinemachiAction.id" group-title="HIBURAN" tvg-logo="https://medianet.mv/media/channel/236x0-icon.png",Cinemachi 
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
