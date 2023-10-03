@@ -61,6 +61,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="HIBURAN" tvg-logo="https://aqfadtv.xyz/logos/AXN.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAb-7fJXkKi3O8gXwn3Q6fo2uYNd6ViCvw&usqp=CAU" group-title="HIBURAN",Rock Action
@@ -85,9 +86,8 @@ https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://ythls.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="HIBURAN",AlWafa
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hijrah-tv-ng.png" group-title="HIBURAN",Makkah 
-https://edge.taghtia.com/sa/7.m3u8
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hijrah-tv-ng.png" group-title="HIBURAN",Makkah
+ https://ythls.onrender.com/video/N9QSL1PLUS4&pp.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="HIBURAN",KIDS TV
@@ -103,9 +103,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="HIBURAN",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5b318e37-8add-4b31-90c8-35fc1255014b
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://aqfadtv.xyz/live/tv3/index.mpd
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HIBURAN",Channel 5
@@ -153,6 +153,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
 #EXTINF:-1 tvg-id="CinemachiAction.id" group-title="HIBURAN" tvg-logo="https://medianet.mv/media/channel/236x0-icon.png",Cinemachi 
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="OLAHRAGA",beIN Sports HD
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png",HBO HD
@@ -170,8 +172,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 http://1.yurend.xyz/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="OLAHRAGA",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="OLAHRAGA" tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png",JSports
-http://code.vthanhtivi.pw/getlink/jptvvn/45/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",A
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",B
