@@ -165,8 +165,8 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png",HBO HD
 https://1.yurend.xyz/dash-wv/linear/2304/default_primary.mpd
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/640px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",Sports
-#http://puaosar4.akciatv.ru/iptv/8V955L9L926XVP/19133/index.m3u8
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+http://puaosar4.akciatv.ru/iptv/8V955L9L926XVP/19133/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="HIBURAN",SONY MAX
 #https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
