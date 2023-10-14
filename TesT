@@ -59,6 +59,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 https://iptvme.xyz:443/vid/hls.m3u8?id=8237
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/308px-FiCom_symbol_logo.jpg" group-title="LOKAL",Ficom
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="SSC 2" tvg-logo="https://i-meatballs.bunkr.ru/liga-arab-rto4zSUI.jpg?download=true",SSC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
 #EXTINF:-1 tvg-id="AXN" group-title="HIBURAN" tvg-logo="https://aqfadtv.xyz/logos/AXN.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AXN
