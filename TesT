@@ -1,14 +1,11 @@
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="LOKAL",ANTV
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8|User-Agent=Lavf/56.15.102
+https://iptvme.xyz:443/vid/hls.m3u8?id=782
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-http://210.210.155.35/qwr9ew/s/s04/index.m3u8|User-Agent=Lavf/56.15.102
+https://iptvme.xyz:443/vid/hls.m3u8?id=205
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
-http://210.210.155.35/qwr9ew/s/s03/index.m3u8|User-Agent=Lavf/56.15.102
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+https://iptvme.xyz:443/vid/hls.m3u8?id=204
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/RCTI-DD
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="LOKAL",RCTI
@@ -20,7 +17,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
 https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="LOKAL",NET TV
-http://210.210.155.35/uq2663/h/h06/index.m3u8|User-Agent=Lavf/56.15.102
+https://iptvme.xyz:443/vid/hls.m3u8?id=875
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/GTV-HD
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="LOKAL",GTV
@@ -30,8 +27,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="LOKAL",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TvOne
+https://live-yt.streamingastv.workers.dev/live/yNKvkPJl-tg/master.m3u8?|referer=https://t.me/astvstreaming
 https://iptvme.xyz:443/vid/hls.m3u8?id=783
-https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="LOKAL",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="LOKAL",METRO TV
@@ -91,8 +88,8 @@ https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="HIBURAN",AlWafa
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hijrah-tv-ng.png" group-title="HIBURAN",Makkah
+https://live-yt.streamingastv.workers.dev/live/PEmRPDJ9I8M/master.m3u8?|referer=https://t.me/astvstreaming
 https://iptvme.xyz:443/vid/hls.m3u8?id=6852
-https://ythls.onrender.com/video/PEmRPDJ9I8M&pp.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="HIBURAN",KIDS TV
@@ -102,7 +99,7 @@ https://apel-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="HIBURAN",Nickelodeon HD
 https://apel-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="HIBURAN",France24
-http://210.210.155.35/qwr9ew/s/s22/index.m3u8|User-Agent=Lavf/56.15.102
+https://live-yt.streamingastv.workers.dev/live/l8PMl7tUDIE/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIK",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="HIBURAN",TV2 HD
