@@ -56,8 +56,7 @@ https://h1.intechmedia.net/intech/ch51.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/20/51/27/205127b0a765f7a45ef9ad3e4f8a6112.jpg" group-title="LOKAL",Puja TV
 https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/308px-FiCom_symbol_logo.jpg" group-title="LOKAL",Ficom
