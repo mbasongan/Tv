@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="LOKAL",ANTV
-https://iptvme.xyz:443/vid/hls.m3u8?id=782
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
@@ -21,6 +21,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="LOKAL",NET TV
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://mantul.biz.id:443/ekos/748382/174.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -166,10 +167,10 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/eurospo.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="OLAHRAGA",beIN Sports HD
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png",HBO HD
-https://1.yurend.xyz/dash-wv/linear/2304/default_primary.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/640px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",Sports
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
