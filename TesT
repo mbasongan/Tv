@@ -58,7 +58,7 @@ https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-https://iptvme.xyz:443/vid/hls.m3u8?id=8237
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/308px-FiCom_symbol_logo.jpg" group-title="LOKAL",Ficom
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://img.myloview.com/stickers/ssc-letter-logo-design-with-black-background-in-illustrator-vector-logo-modern-alphabet-font-overlap-style-calligraphy-designs-for-logo-poster-invitation-etc-700-269126059.jpg",SSC
@@ -138,8 +138,8 @@ https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 https://mantul.biz.id:443/ekos/748382/223.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK",Musik Indonesia
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="OLAHRAGA",Sports18
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="HIBURAN",BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -172,6 +172,7 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://1.yurend.xyz/dash-wv/linear/2304/default_primary.mpd
 https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/640px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",Sports
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="HIBURAN",SONY MAX
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
