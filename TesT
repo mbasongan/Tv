@@ -7,7 +7,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://103.166.27.2:8112/play/a015/index.m3u8
+http://103.166.27.2:8112/play/a015/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -90,7 +90,7 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 http://210.210.155.35/dr9445/h/h14/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF: -1 tvg-logo="https://i.ibb.co/xqv6YVZ/20230825-021017.png" group-title="MUSIK",NAGASWARA 
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="HIBURAN",AlWafaTarim
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="HIBURAN",AlTarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hijrah-tv-ng.png" group-title="HIBURAN",Makkah
 https://live-yt.streamingastv.workers.dev/live/PEmRPDJ9I8M/master.m3u8?|referer=https://t.me/astvstreaming
@@ -131,6 +131,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/endrisusilo/endro/blob/main/flik.jpg?raw=true" group-title="HIBURAN",FLIK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165095
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK",Musik Indonesia
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
