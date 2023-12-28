@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="LOKAL",ANTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
@@ -173,8 +173,8 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="HIBURAN",MyKidz
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Colors_Cineplex_Superhits_logo.jpg" group-title="HIBURAN",Cineplex
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/Rishtey_Cineplex_voot_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" group-title="HIBURAN",VEVO
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8|user-agent=okhttp/4.10.0
 
 
 
