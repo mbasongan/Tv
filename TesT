@@ -166,7 +166,7 @@ http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/162/389/162389382b17a843930ce60e46ec7c111ba5779b867cea0ff57b98c42eb10546:200" group-title="OLAHRAGA",SPOTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="HIBURAN",MONO29
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/V0016.mpd
