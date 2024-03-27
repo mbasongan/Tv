@@ -59,14 +59,14 @@ https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FiCom_symbol_logo.jpg/308px-FiCom_symbol_logo.jpg" group-title="HIBURAN",Mandarin
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnd-film-travel-of-the-discovery-cn.png" group-title="HIBURAN",Mandarin
 https://s.id/21Dcq-bioskopcina|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAb-7fJXkKi3O8gXwn3Q6fo2uYNd6ViCvw&usqp=CAU" group-title="HIBURAN",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png",HBO HD
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="HIBURAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
+#EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="HIBURAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",ZEE
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="HIBURAN",TVN Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
