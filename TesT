@@ -54,6 +54,12 @@ https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
+#EXTINF:-1 group-title="HIBURAN" tvg-id="khbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-id="maleo.id" tvg-logo="https://iptv.urfan.web.id/logo/maleo.png",Maleo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnd-film-travel-of-the-discovery-cn.png" group-title="HIBURAN",FILM
 http://abcnew.site:8880/12mmk180105/81462658/2082
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAb-7fJXkKi3O8gXwn3Q6fo2uYNd6ViCvw&usqp=CAU" group-title="HIBURAN",Rock Action
@@ -77,6 +83,7 @@ https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="HIBURAN",Makkah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -116,8 +123,6 @@ https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK",Musik Indonesia
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="HIBURAN",WesalTV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-id="762" group-title="HIBURAN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",SONYPIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -135,28 +140,28 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/mas
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-neRxHiZYGAA/WU_aJil_znI/AAAAAAAAAOs/cR0gb1a9NGU3sQuoLe6gSJtIb7vHFXpBgCLcBGAs/s1600/2016-01-14--14_11_51.jpg" group-title="HIBURAN",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=1088590917281_image-header_pDach_1661949223000&quality=70" group-title="OLAHRAGA",EuroSport HD
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=1088590917281_image-header_pDach_1661949223000&quality=70" group-title="OLAHRAGA",JSport
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="CinemachiAction.id" group-title="HIBURAN" tvg-logo="https://medianet.mv/media/channel/236x0-icon.png",Cinemachi Action
 https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/640px-Fox_Sports_logo1.svg.png" group-title="OLAHRAGA",SPORTS
-
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/162/389/162389382b17a843930ce60e46ec7c111ba5779b867cea0ff57b98c42eb10546:200" group-title="OLAHRAGA",SSC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="HIBURAN",MONO29
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/V0016.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="HIBURAN",MyKidz
 http://testfunctionlive.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="HIBURAN",Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="OLAHRAGA",BeIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
@@ -167,6 +172,11 @@ http://abcnew.site:8880/12mmk180105/81462658/2942
 http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=677591&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="HIBURAN",Kids
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+#EXTINF:-1 group-title="HIBURAN" tvg-id="madanitv.id" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",Madani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+
 
 
 #EXTM3U billed-msg=" @ mbasongan "
