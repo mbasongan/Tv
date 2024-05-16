@@ -5,7 +5,7 @@
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cibu.my.id/yahah/pid/index.m3u8?id=205&type=hls&token=a
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
