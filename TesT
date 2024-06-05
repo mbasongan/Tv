@@ -92,7 +92,7 @@ https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mp
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-#EXTINF:-1 tvg-id="Astro Supersport2" tvg-name="AstroSupersport2" group-title="OLAHRAGA" tvg-logo="https://assets.iptvsystem.my.id/img/astrosupersport2.png",Astro Supersport
+#EXTINF:-1 tvg-id="Astro Supersport2" tvg-name="AstroSupersport2" group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport 2 HD
 https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
