@@ -111,13 +111,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5now/sa_dash_vmx/TV5now.mpd|Refer
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/9X_logo.png" group-title="MUSIK",india
 http://cdn2.pishow.tv/live/136/master.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
+#EXTINF:-1 group-title="HIBURAN" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png",PPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="HIBURAN",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HIBURAN",Channel 5
+#EXTINF:-1 tvg-logo="https://iili.io/JyHJqtR.png" group-title="HIBURAN",Channel 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://i.ibb.co/VVknd23/tv9.png" group-title="HIBURAN",TV9 
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://i.ibb.co/VVknd23/tv9.png" group-title="HIBURAN",TV9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
