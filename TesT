@@ -140,9 +140,9 @@ http://testfunctionlive.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="HIBURAN",C1
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/endrisusilo/endro/blob/main/flik.jpg?raw=true" group-title="HIBURAN",FLIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/128
 https://cors-proxy.elfsight.com/cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",Musik Indonesia
