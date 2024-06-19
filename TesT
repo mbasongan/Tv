@@ -130,8 +130,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="OLAHRAGA",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+http://txup.live:80/0454713149/6189330030/211819
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -161,7 +160,8 @@ https://rodjatv.com/rodjatv/live.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/320px-J_Sports_Logo.svg.png" group-title="OLAHRAGA",JSports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 tvg-id="CinemachiAction.id" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",NowRock
+#EXTINF:-1 tvg-id="CinemachiAction.id" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",Arabic
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
