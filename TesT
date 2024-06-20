@@ -130,7 +130,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="OLAHRAGA",ESPN
-http://txup.live:80/0454713149/6189330030/211819
+http://txup.live:80/0454713149/6189330030/211807
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
