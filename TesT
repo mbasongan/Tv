@@ -33,15 +33,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",Tv One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ythls.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="LOKAL",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ythls.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="LOKAL",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ythls.urfan.web.id/stream/XKueVSGTk2o/master.m3u8
 http://210.210.155.37/uq2663/h/h12/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="LOKAL",Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -99,7 +96,7 @@ https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-logo="https://id.top10place.com/img_files/847429881968317" group-title="HIBURAN",Alwafa
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="HIBURAN",Makkah
-https://ythls.urfan.web.id/stream/moQtMet7F7w/master.m3u8
+https://ythls.armelin.one/channel/UCqDUJp6Z4wyFkDJGqd0EP4Q.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="HIBURAN",KIDS TV
@@ -191,7 +188,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",EarthTV
-https://ythls.urfan.web.id/stream/HfgIFGbdGJ0/master.m3u8
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 1
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 2
