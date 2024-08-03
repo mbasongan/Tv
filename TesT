@@ -189,14 +189,15 @@ http://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="OLAHRAGA",BeIN Sports HD
 https://canale.mizhls.ru/lb/premium400/playlist.m3u8|Referer=https://tvcanale.live/
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681127600649822213/PiUZuOVQ_200x200.jpg" group-title="OLAHRAGA",TNT 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681127600649822213/PiUZuOVQ_200x200.jpg" group-title="OLAHRAGA",TNT Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="HIBURAN",FunKids
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",Madani
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",MadaniTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch1.m3u8
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",EarthTV
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
@@ -204,7 +205,7 @@ https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/400px-Channel_V_Logo.svg.png" group-title="MUSIK",[ V ]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/400px-Channel_V_Logo.svg.png" group-title="MUSIK",Channel V
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 1
 http://epg.112114.xyz/douyu/4332
