@@ -170,7 +170,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://canale.mizhls.ru/lb/premium400/playlist.m3u8|Referer=https://tvcanale.live/
 #https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="HIBURAN",Animal Planet HD
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp53CMB.jpg" group-title="OLAHRAGA",GOSPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
