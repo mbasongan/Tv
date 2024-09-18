@@ -208,9 +208,9 @@ https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_international.png",Music
-http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
 http://91.207.114.220:9001/play/a0ca/index.m3u8
 https://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
+http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIK" ,MUZTV
 #http://edge02.odtv.az/o5/muztv/playlist.m3u8
 #https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
