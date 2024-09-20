@@ -206,7 +206,7 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",CCTV4
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_international.png",Music
 http://91.207.114.220:9001/play/a0ca/index.m3u8
 https://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
