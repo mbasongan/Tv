@@ -199,10 +199,9 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/32
 #https://canale.mizhls.ru/lb/premium98/playlist.m3u8|Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="HIBURAN",FunKids
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",MadaniTV
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2021/01/insan.png",MuslimTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch1.m3u8
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",CCTV4
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
