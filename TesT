@@ -115,7 +115,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="HIBURAN",tvn Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.160.205.142:9999/stream/channelid/1727313314?profile=pass
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -158,7 +157,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
 http://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="HIBURAN",Cinema
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401292591.m3u8
+http://103.160.205.142:9999/stream/channelid/1727313314?profile=pass
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7XpKSpt/tringsport3.png" group-title="OLAHRAGA",SetantaSports
 #https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
@@ -212,8 +211,8 @@ http://91.207.114.220:9001/play/a0ca/index.m3u8
 http://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
 http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIK" ,MUZTV
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401285142.m3u8
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
-#https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 1
 #http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 2
