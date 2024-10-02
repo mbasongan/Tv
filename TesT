@@ -157,7 +157,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
 http://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="HIBURAN",Cinema
-http://103.160.205.142:9999/stream/channelid/1727313314?profile=pass
 https://cinemaone-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7XpKSpt/tringsport3.png" group-title="OLAHRAGA",SetantaSports
 #https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
@@ -196,7 +195,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/32
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="HIBURAN",MyKidz
 #http://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="OLAHRAGA",BeIN Sports HD
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/107
+http://ktv.im:8080/kk56712/kk12345/49529
 https://canale.mizhls.ru/lb/premium98/playlist.m3u8|Referer=https://tvcanale.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="HIBURAN",IndiKids
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
@@ -210,7 +209,6 @@ https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/640px-4Music_logo_2018.svg.png",Music
 http://91.207.114.220:9001/play/a0ca/index.m3u8
 http://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
-http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIK" ,MUZ
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401285142.m3u8
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
