@@ -139,14 +139,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5now/sa_dash_vmx/TV5now.mpd|Refer
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 http://cdn2.pishow.tv/live/135/master.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/master.m3u8
-#EXTINF:-1 group-title="HIBURAN" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/fDkdzks/pptv36.png",PPTV
+#EXTINF:-1 group-title="ASIA" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/fDkdzks/pptv36.png",True4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MALAYSIA",TV2 HD
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASIA",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="MALAYSIA",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Berita_TV9_%283_May_2019%29.jpg/600px-Logo_Berita_TV9_%283_May_2019%29.jpg" group-title="MALAYSIA",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Berita_TV9_%283_May_2019%29.jpg/600px-Logo_Berita_TV9_%283_May_2019%29.jpg" group-title="ASIA",TV9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
@@ -209,7 +209,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2021/01/insan.png",Muslim TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch1.m3u8
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",CCTV4
+#EXTINF:-1 group-title="ASIA" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",CCTV4
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
 https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
