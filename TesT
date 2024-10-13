@@ -214,7 +214,7 @@ https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
 https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/640px-4Music_logo_2018.svg.png",Music
-#http://91.207.114.220:9001/play/a0ca/index.m3u8
+http://91.207.114.220:9001/play/a0ca/index.m3u8
 http://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIK" ,MZ
 #http://edge02.odtv.az/o5/muztv/playlist.m3u8
