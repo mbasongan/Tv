@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7O8D1y.jpeg" group-title="LOKAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.indihometv.com
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?|user-agent=Mozilla/5.0
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -80,8 +80,6 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/640px-Motors_TV_logo.svg.png",AutoMoto
 https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-https://bkm.beetv.kz/btv/live/hls/000000815.m3u8
-http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681127600649822213/PiUZuOVQ_200x200.jpg" group-title="OLAHRAGA",TNT Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
@@ -211,8 +209,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a
 https://flv.intechmedia.net/live/ch1.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",CCTV4
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
-http://edge02.odtv.az/o2/rentv/playlist.m3u8
-https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/640px-4Music_logo_2018.svg.png",Music
 http://91.207.114.220:9001/play/a0ca/index.m3u8
 http://stream2.cinerama.uz/1245/tracks-v1a1/mono.m3u8
