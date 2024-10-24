@@ -78,7 +78,10 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://s.urfan.id/khbtv
 #https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/640px-Motors_TV_logo.svg.png",AutoMoto
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/640px-Motors_TV_logo.svg.png",FS3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 https://stream1.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681127600649822213/PiUZuOVQ_200x200.jpg" group-title="OLAHRAGA",TNT Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,12 +106,12 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 #http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="HIBURAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="HIBURAN",tvn Movies 
