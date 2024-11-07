@@ -149,7 +149,8 @@ https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.m
 https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASIA",TV2 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",ТВ3
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Berita_TV9_%283_May_2019%29.jpg/600px-Logo_Berita_TV9_%283_May_2019%29.jpg" group-title="ASIA",TV9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
