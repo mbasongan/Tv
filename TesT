@@ -9,7 +9,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -65,7 +65,7 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
+#https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202305/20230501/20230501030506432ny5.png" group-title="ANAK",Moonbug
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,7 +173,7 @@ https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="HIBURAN",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-#https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-neRxHiZYGAA/WU_aJil_znI/AAAAAAAAAOs/cR0gb1a9NGU3sQuoLe6gSJtIb7vHFXpBgCLcBGAs/s1600/2016-01-14--14_11_51.jpg" group-title="DAKWAH",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
