@@ -154,8 +154,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
 http://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="ASIA",Cinema
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
-http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/29592
+#http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/29592
 http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",Musik Indonesia
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
@@ -177,7 +176,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="ANAK",MyKidz
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",Horee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
