@@ -99,10 +99,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOHits.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="HIBURAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="ASIA",tvn Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
@@ -136,8 +135,8 @@ https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.m
 https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASIA",TV2 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",ТV3
-https://flussonic.salomtv.uz/TV3/video.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",ТB3
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Berita_TV9_%283_May_2019%29.jpg/600px-Logo_Berita_TV9_%283_May_2019%29.jpg" group-title="ASIA",TV9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
