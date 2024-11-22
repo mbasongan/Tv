@@ -173,6 +173,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="ANAK",MyKidz
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/FunPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",Horee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
