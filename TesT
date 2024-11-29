@@ -25,13 +25,13 @@ http://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Refe
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="LOKAL",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="LOKAL",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
@@ -97,8 +97,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|Referer=https://www.cubmu.com/
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOHits.m3u8
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="ASIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -154,9 +155,10 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
 http://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="ASIA",Cinema
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-Flik.m3u8|Referer=https://www.indihometv.com
 http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/29592
 https://familyhls.avatv.live/hls/stream.m3u8
-http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",Musik Indonesia
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
