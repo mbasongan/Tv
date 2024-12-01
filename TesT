@@ -1,12 +1,17 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K7O8D1y.jpeg" group-title="LOKAL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.indihometv.com
-https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MentariTV.m3u8|Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?|user-agent=Mozilla/5.0
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|Referer=https://www.indihometv.com
@@ -17,14 +22,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 http://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7O8D1y.jpeg" group-title="LOKAL",ANTV
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.indihometv.com
+https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|Referer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="LOKAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
@@ -35,8 +39,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="LOKAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MentariTV.m3u8|Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",Tv One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd|Referer=https://www.indihometv.com
@@ -47,9 +49,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8?|user-agent=Mozilla/5.
 https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="LOKAL",METRO TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
