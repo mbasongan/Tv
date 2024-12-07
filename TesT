@@ -84,7 +84,8 @@ https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_L%27%C3%89quipe_TV_2001.svg/640px-Logo_L%27%C3%89quipe_TV_2001.svg.png",L'EQUIPETV
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_L%27%C3%89quipe_TV_2001.svg/640px-Logo_L%27%C3%89quipe_TV_2001.svg.png",SKY
+https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnd-film-travel-of-the-discovery-cn.png" group-title="HIBURAN",FILM+
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
@@ -104,7 +105,7 @@ https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/413px-StarTV.svg.png" group-title="HIBURAN",STAR24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/413px-StarTV.svg.png" group-title="ASIA",STAR
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/145
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
@@ -131,6 +132,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MusikIndonesia.m3u8|Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="HIBURAN",Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -166,7 +168,6 @@ http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="OLAHRAGA",BeIN Sports 
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Arabic
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
