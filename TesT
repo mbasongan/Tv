@@ -59,7 +59,7 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
+#https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/548px-McDonald%27s_Golden_Arches.svg.png" group-title="ANAK",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8 
@@ -89,6 +89,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 https://webhdrunns.mizhls.ru/lb/premium575/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnd-film-travel-of-the-discovery-cn.png" group-title="HIBURAN",FILM+
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/130
 http://pinbal4you.com:8000/razija.paldum/skyptestt/16579
 http://mag.king-4k.cc:80/5FC448/6C4995/454850
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="ASIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
@@ -108,7 +109,6 @@ https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/413px-StarTV.svg.png" group-title="ASIA",STAR
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/130
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASIA",TV2 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
@@ -182,15 +182,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-StudioUniversal.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HIBURAM",MOVIES 1
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HIBURAN",MOVIES 2
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HIBURAN",MOVIES 3
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HIBURAN",MOVIES 4
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",MOVIES 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HIBURAN",MOVIES 5
 http://epg.112114.xyz/douyu/747764
 
 
