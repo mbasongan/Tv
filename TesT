@@ -121,7 +121,7 @@ https://s1.merlive.am/tv3international/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png/640px-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="ASIA",TV5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-http://jmrk.xyz:3050/live/Amonetna/xgvKRisJUa/558749
+http://jmrk.xyz:3050/live/Amonetna/xgvKRisJUa/558749.m3u8
 http://megaott.live:8080/live/fkhWUrR6jLhs/jCHtWjfjaUe4/73799.m3u8
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/313/497/313/aljazeera-network-logo-png-clipart-thumbnail.jpg" group-title="HIBURAN",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
