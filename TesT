@@ -111,6 +111,7 @@ https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/413px-StarTV.svg.png" group-title="ASIA",STAR
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 https://ertmmd.mmdlive.lldns.net/ertmmd/0a90c34287674aae93d05b71a7116353/manifest.mpd
