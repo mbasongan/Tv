@@ -59,16 +59,16 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/548px-McDonald%27s_Golden_Arches.svg.png" group-title="ANAK",MkidS
 http://yesimes.oknirvana.club:8880/live/D12m1167/29733987/71080.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 https://moonbug-rokuus.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="MUSIK" tvg-id="imtv" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png",MY
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 http://103.156.169.82:8000/play/a00k/index.m3u8
 http://megaott.live:8080/live/fkhWUrR6jLhs/jCHtWjfjaUe4/106397.m3u8
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",Basalamah
 #https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/640px-Motors_TV_logo.svg.png",MOTORVISION
@@ -173,7 +173,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid
 http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="OLAHRAGA",beIN Sports
-http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/94713.m3u8
+http://ktv.im:8080/kk56712/kk12345/49529
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Arabic
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",My Cinema Asia
