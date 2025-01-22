@@ -121,9 +121,7 @@ https://s1.merlive.am/tv3international/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png/640px-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="ASIA",TV5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/26?.mpd?73589466528748628639627638647548659752453777989775534258687
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/313/497/313/aljazeera-network-logo-png-clipart-thumbnail.jpg" group-title="HIBURAN",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -156,7 +154,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",True4U
 https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="ANAK",My Kidz
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",Horee
@@ -192,6 +189,10 @@ http://epg.112114.xyz/douyu/36337
 http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",SportTV
 http://stilustv.com:80/tobeltv/1997347024/99
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="gma7ph1" tvg-name="GMA 7 (CON01)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZvR-WBx9by7ekFRW0YnNf7DBTUH4_MRzWQ&usqp=CAU" group-title="ASIA",GMA
+http://xtream-ie.org/Mnbvcxza/Poiuytrewqa/25?.mpd?73589466528748628639627638647548659752453777989775534258687
 
 
 
