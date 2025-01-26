@@ -175,7 +175,8 @@ http://suprino.xyz/PMF3J9X/BV7HG8H/550001
 http://45.139.122.148:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Arabic
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",My Cinema Asia
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Tvn Movies
+https://cdngb196.indihometv.com/joss/133/tvnmovies/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://seeklogo.com/images/S/studio-universal-logo-9D1649FDA2-seeklogo.com.png" group-title="HIBURAN" ,Studio Universal
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -183,8 +184,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 https://cdngb196.indihometv.com/joss/130/studiouniversal/chunklist.m3u8?enc=&uid=&exp=exp=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/147px-Telehit_logo_2020.png" group-title="MUSIK",Telehits
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/31785
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="HIBURAN",MOVIES
-http://epg.112114.xyz/douyu/36337
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
+#EXTINF:-1 tvg-id="rai2hd" tvg-name="RAI 2 HD (Estero)" tvg-logo="https://i.imgur.com/l8ikwzx.png" group-title="HIBURAN",RAI italia
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="HIBURAN",MOVIES 
 http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",SportTV
