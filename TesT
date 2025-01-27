@@ -147,7 +147,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-neRxHiZYGAA/WU_aJil_znI/AAAAAAAAAOs/cR0gb1a9NGU3sQuoLe6gSJtIb7vHFXpBgCLcBGAs/s1600/2016-01-14--14_11_51.jpg" group-title="DAKWAH",Rodja TV
-https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=Mozilla/5.0
+#https://flv.intechmedia.net/live/ch2.m3u8?|user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
