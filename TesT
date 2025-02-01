@@ -76,8 +76,11 @@ http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/311209
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="OLAHRAGA" ,DAZN
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/128935
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="OLAHRAGA" ,DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
@@ -91,7 +94,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF: -1 tvg-logo="https://www.allradio.net/500/BwlVSEo-bWnbhhMq64uai.webp" group-title="MUSIK",VRadio
+#EXTINF: -1 tvg-logo="https://www.allradio.net/500/BwlVSEo-bWnbhhMq64uai.webp" group-title="MUSIK",Radio Hits
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
@@ -195,11 +198,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",SportTV
 http://stilustv.com:80/tobeltv/1997347024/99
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-title="OLAHRAGA",Sport 5 
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium146/index.m3u8
+
 
 
 
