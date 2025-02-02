@@ -125,7 +125,7 @@ https://s1.merlive.am/tv3international/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png/640px-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="ASIA",TV5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-http://iptv12k.com:35461/live/654321/123456/4035
+http://iptv12k.com:35461/654321/123456/4035
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/313/497/313/aljazeera-network-logo-png-clipart-thumbnail.jpg" group-title="HIBURAN",AlJazeera 
@@ -190,9 +190,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/joss/130/studiouniversal/chunklist.m3u8?enc=&uid=&exp=exp=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/147px-Telehit_logo_2020.png" group-title="MUSIK",Telehits
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/31785
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/31785
 #EXTINF:-1 tvg-id="rai2hd" tvg-name="RAI 2 HD (Estero)" tvg-logo="https://i.imgur.com/l8ikwzx.png" group-title="HIBURAN",RAI italia
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/976
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/976
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="HIBURAN",MOVIES 
 http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",SportTV
