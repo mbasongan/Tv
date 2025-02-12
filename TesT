@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/512px-Mentari_TV.svg.png",Mentari TV
-https://cdngb196.indihometv.com/joss/134/mentaritv/chunklist.m3u8?enc=&uid=&exp=exp=
+https://streaming.indihometv.com/atm/DASH/mentaritv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCHzkGRP2y-3QJQWzVkHNGgg
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
@@ -120,9 +120,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
 http://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="ASIA",Flik
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdngb196.indihometv.com/joss/133/flik/chunklist.m3u8?enc=&uid=&exp=exp=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",Musik Indonesia
 https://v2.siar.us/mic/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
