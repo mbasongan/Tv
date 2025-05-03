@@ -9,9 +9,8 @@ https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?|user-agent=Mozilla/5.0
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|Referer=https://www.indihometv.com
@@ -22,9 +21,8 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|Referer=https://
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="LOKAL",RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7O8D1y.jpeg" group-title="ASIA",ANTV
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="LOKAL",Trans TV
@@ -32,9 +30,8 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="LOKAL",GTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="LOKAL",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
@@ -61,7 +58,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/548px-McDonald%27s_Golden_Arches.svg.png" group-title="ANAK",Moonbug
 #http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 https://moonbug-rokuus.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="MUSIK" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_L%27%C3%89quipe_TV_2001.svg/640px-Logo_L%27%C3%89quipe_TV_2001.svg.png",Balkanika
+#EXTINF:-1 group-title="MUSIK" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_L%27%C3%89quipe_TV_2001.svg/640px-Logo_L%27%C3%89quipe_TV_2001.svg.png",IMtv
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/640px-Motors_TV_logo.svg.png",Motorvision
 http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -84,9 +81,9 @@ https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="ASIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Zee Bioskop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
-https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+http://202.147.193.244/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF: -1 tvg-logo="https://www.allradio.net/500/BwlVSEo-bWnbhhMq64uai.webp" group-title="MUSIK",Radio Hits
@@ -97,31 +94,25 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
 https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="ANAK",Kids TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+http://202.147.193.244/live/eds/KidsChannel/sa_dash/KidsChannel.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://iili.io/JmoZh1p.png" group-title="ASIA",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8?app=7dcc255a-ef47-de81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZvR-WBx9by7ekFRW0YnNf7DBTUH4_MRzWQ&usqp=CAU" group-title="ASIA",HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200329.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/313/497/313/aljazeera-network-logo-png-clipart-thumbnail.jpg" group-title="HIBURAN",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="Hiburan",Galaxy Premium
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium.m3u8?|user-agent=xplayer168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",Musik Indonesia
 https://v2.siar.us/mic/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd|Referer=https://www.visionplus.id/
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="HIBURAN",Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -151,7 +142,7 @@ https://cdn.ntv.ru/ntv0_hd/index.m3u8
 http://31.148.48.15/Bridge_TV/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",beIN Sports
-
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Musicarabic
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
