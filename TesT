@@ -3,6 +3,7 @@
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/512px-Mentari_TV.svg.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -99,7 +100,8 @@ https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index
 http://202.147.193.244/live/eds/KidsChannel/sa_dash/KidsChannel.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://iili.io/JmoZh1p.png" group-title="ASIA",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8?app=7dcc255a-ef47-de81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZvR-WBx9by7ekFRW0YnNf7DBTUH4_MRzWQ&usqp=CAU" group-title="ASIA",HBTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PJWY662/Salingsapatv.png"group-title="DAKWAH",salingsapaTV
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200329.m3u8
