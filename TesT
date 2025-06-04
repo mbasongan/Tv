@@ -88,7 +88,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
-http://op-group1-swiftservehd-1.dens.tv/s/s28/index.m3u8?|user-agent=Mozilla/5.0
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="ANAK",Kids TV
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeecdDzL49FGteqZlC_N9lG4
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://iili.io/JmoZh1p.png" group-title="ASIA",TV8
