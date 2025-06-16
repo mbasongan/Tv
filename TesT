@@ -3,6 +3,7 @@
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/512px-Mentari_TV.svg.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=https://www.visionplus.id/
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -24,6 +25,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?|user-agent=Mozilla/5.
 #EXTVLCOPT:http-user-agent=android-R+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|Referer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7O8D1y.jpeg" group-title="LOKAL",ANTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="LOKAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -42,17 +44,18 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="LOKAL",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd|Referer=https://www.indihometv.com
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8?|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="DAKWAH",Wesal TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",TAWAF TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://av-ch-cdn.mncnow.id/live/eds/TawafTV/sa_dash/TawafTV.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="LOKAL",DMAX
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title="LOKAL",JTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.indihometv.com
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/548px-McDonald%27s_Golden_Arches.svg.png" group-title="ANAK",Moonbug
@@ -90,7 +93,7 @@ https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="ANAK",Kids TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/f/ff/20690510-designstyle-friends-u.png/revision/latest/thumbnail/width/360/height/360?cb=20201019190737" group-title="ANAK",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd|Referer=https://www.visionplus.id
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://iili.io/JmoZh1p.png" group-title="ASIA",TV8
@@ -103,6 +106,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/313/497/313/aljazeera-network-logo-png-clipart-thumbnail.jpg" group-title="HIBURAN",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -110,8 +114,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="HIBURAN",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="OLAHRAGA",Jsports
-http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",BridgeTV
+http://31.148.48.15/Bridge_TV/playlist.m3u8
 https://v2.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -129,6 +133,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",True4U
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="ANAK",My Kidz
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",Horee
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -140,7 +145,7 @@ https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://pic2.zhimg.com/80/v2-01c9b1cdd4534f653e1bb8102b18a89d_1440w.webp",NTV
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/640px-4Music_logo_2018.svg.png",Music
-http://31.148.48.15/Bridge_TV/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",beIN Sports
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
