@@ -75,8 +75,11 @@ https://e.siar.us/live/dmtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/548px-McDonald%27s_Golden_Arches.svg.png" group-title="ANAK",Moonbug
-#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnE_Je8Z-Ob63D3HcaQ1pJL0_dI3L0R2qx3A&s" group-title="OLAHRAGA",BandSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd
 https://moonbug-rokuus.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="MUSIK" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_Maleo_Channel.png",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
