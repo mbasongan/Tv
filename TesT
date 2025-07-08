@@ -3,11 +3,12 @@
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/512px-Mentari_TV.svg.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://103.226.232.199:9003/play/a05a/index.m3u8
+#http://103.226.232.199:9003/play/a05a/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|Referer=https://www.indihometv.com
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://103.159.195.61:9981/stream/channelid/2056327025?profile=pass
 http://103.226.232.199:9003/play/a0iu/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=vtv
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
