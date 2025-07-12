@@ -192,8 +192,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="HIBURAN",SONY PIX 
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",Digi Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",DSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://nodns1.top:8080/live/27172979093034/41737393581292/25959.ts
 https://bintangstreaming.my.id/connect/index.m3u8?channel=digi3&type=m3u8|Referer=https://cool-tv.net/
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506.ts
 #EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6430003:378:CHANNEL:IMAGE:png&w=150&appID=TONTON" group-title="ASIA" ,tvN MOVIES
