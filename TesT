@@ -61,6 +61,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="LOKAL",DMAX
 https://e.siar.us/live/dmtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
+#https://cloud.plus-dns.com/live/88329.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://why.biz.id/Iptv/youtubehlschannelid.php/stream.m3u8?id=UC_x-q9xzXEJ6dOr9XaLPrCQ|Referer=https://www.youtube.com/
@@ -121,10 +124,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PJWY662/Salingsapatv.png" group-title="DAKWAH",salingsapaTV
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
-#https://cloud.plus-dns.com/live/88329.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="HIBURAN",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -160,6 +159,8 @@ https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (
 #EXTINF:-1 group-title="EURO" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="00" tvg-logo="https://i.imgur.com/ZJSWusT.png",Telecinco
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://593zona.live/56977891057play/play150423/408965
 http://116342296971.d4ktv.info:80/Hamidbakach2025/7swcifyia8/234175
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -173,7 +174,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="HIBURAN",MNX
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
+https://WahyuIPTV.short.gy/ETVBioskop1.m3u8
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="ASIA",Honocoroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
