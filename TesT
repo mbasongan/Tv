@@ -76,11 +76,8 @@ https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnE_Je8Z-Ob63D3HcaQ1pJL0_dI3L0R2qx3A&s" group-title="OLAHRAGA",Sport360
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/400448848.m3u8
-http://nodns1.top:8080/27172979093034/41737393581292/25959
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="EURO",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png",Das Erste
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
@@ -158,12 +155,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="EURO" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="EURO" tvg-id="00" tvg-logo="https://i.imgur.com/ZJSWusT.png",Telecinco
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/400218266.m3u8
-http://593zona.live/56977891057play/play150423/408965
-http://116342296971.d4ktv.info:80/Hamidbakach2025/7swcifyia8/234175
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EURO" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/451px-Logo_Telecinco.svg.png",Telecinco
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",ZIGGO
 https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
