@@ -143,8 +143,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="EURO" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="EURO" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/451px-Logo_Telecinco.svg.png",Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/451px-Logo_Telecinco.svg.png",Channel V
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=vchina
 #EXTINF:-1 tvg-logo="https://iili.io/d93wOtS.png" group-title="EURO",Italia1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
