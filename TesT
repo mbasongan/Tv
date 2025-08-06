@@ -186,6 +186,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
+https://bintangstreaming.my.id/connect/index.m3u8?channel=digi1&type=m3u8|Referer=https://cool-tv.net/
 http://dfkkh.dtwkaf.xyz:80/live/829119166/117784998/4231155.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="DAKWAH",MadaniTV10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
