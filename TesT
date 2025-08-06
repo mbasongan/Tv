@@ -70,7 +70,7 @@ https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="HIBURAN",Flik
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/Flik-HD.m3u8
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png",SKY
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png",Sky Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=digi1&type=m3u8|Referer=https://cool-tv.net/
@@ -203,8 +203,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="OLAHRAGA",Sportnets
-#EXTVLCOPT:http-user-agent=SamsungTVPlus
-#https://jmp2.uk/sam-FRBC4200004XH.m3u8
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448846.m3u8
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|Referer=https://saruman1.tharen.cfd/000/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
