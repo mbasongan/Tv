@@ -68,11 +68,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://rocket-tv.online/redtube/randomyt.m3u8?id=UCYSWhAYrVIebRJ8CwPRvt0Q|Referer=https://www.youtube.com/
 https://tvstreamcast.com/tawaftv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="HIBURAN",FLIK
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-https://wahyu1ptv.pages.dev/Flik-HD.m3u8
+#EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png" group-title="HIBURAN",HBO Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s",Sky Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
@@ -88,10 +88,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/640px-SSC_TV_logo.svg.png" group-title="OLAHRAGA",SSC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/640px-SSC_TV_logo.svg.png" group-title="OLAHRAGA",360
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448846.m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",&Flix
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -168,8 +168,11 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png",Das Erste
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",ZIGGO
-https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",bein Sports
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/89.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
@@ -177,7 +180,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="HIBURAN",MNX
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="ASIA",Honocoroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -197,19 +199,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="HIBURAN",SONY PIX
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",beIN Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",Ziggo
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/89.m3u8
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 #EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6430003:378:CHANNEL:IMAGE:png&w=150&appID=TONTON" group-title="ASIA" ,tvN MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="OLAHRAGA",Sport360
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448846.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="OLAHRAGA",Prima
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|Referer=https://saruman1.tharen.cfd/000/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
