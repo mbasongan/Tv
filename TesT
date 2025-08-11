@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari
 http://103.226.232.199:9003/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://popmi.my.id/tes.m3u8?id=1561
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/f/ff/20690510-designstyle-friends-u.png/revision/latest/thumbnail/width/360/height/360?cb=20201019190737" group-title="ANAK",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -30,6 +31,7 @@ https://flv.intechmedia.net/live/ch30.m3u8?|user-agent=YouTV/1.5.6-prod.release 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://popmi.my.id/tes.m3u8?id=204
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="LOKAL",RCTI
@@ -169,7 +171,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png",Das Erste
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",bein Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",beIN SPORTS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -211,7 +213,7 @@ https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="OLAHRAGA",Prima
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|Referer=https://saruman1.tharen.cfd/000/
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
