@@ -176,6 +176,7 @@ http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://superintendent.whatevergos.com:8080/live/ABDULLAH/aHVzDrpCMh/142752.m3u8
 http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/401463423.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
