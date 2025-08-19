@@ -98,7 +98,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448848.m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",&Flix
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+#https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png",FOX Sports
