@@ -131,7 +131,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/SMI_logo.jpg" group-title="MUSIK",Musik Indonesia
-https://v2.siar.us/mic/live/playlist.m3u8
+#https://v2.siar.us/mic/live/playlist.m3u8
 https://mic.siar.us/mic/live/mic.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
@@ -158,6 +158,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2021/01/insan.png",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="EURO" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
+http://158.160.149.81:8080/749/index.m3u8
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8|Referer=https://televizor24tochka.ru/
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/451px-Logo_Telecinco.svg.png",Channel V
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -214,7 +215,7 @@ https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="OLAHRAGA",Prima
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|Referer=https://saruman1.tharen.cfd/000/
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
