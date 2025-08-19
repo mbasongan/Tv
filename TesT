@@ -64,7 +64,7 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
 #https://stream2.smg.my/live/tvsplus.m3u8
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8|Referer=https://tonton-live-sg3.akamaized.net/
+#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8|Referer=https://tonton-live-sg3.akamaized.net/
 https://smart.pendy.dpdns.org/Smart.php?id=TV3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
