@@ -157,7 +157,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2021/01/insan.png",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="EURO" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
-https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8|Referer=https://televizor24tochka.ru/
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/451px-Logo_Telecinco.svg.png",Channel V
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -175,7 +174,7 @@ http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1269961.ts
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1269961.ts
 http://superintendent.whatevergos.com:8080/live/ABDULLAH/aHVzDrpCMh/142752.m3u8
 http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/89.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
