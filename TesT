@@ -29,6 +29,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="ANAK",Horee
+https://e.siar.us/live/deikidstv.m3u8
 https://flv.intechmedia.net/live/ch30.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -58,7 +59,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",Tv One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd|Referer=https://www.indihometv.com/
-https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCER4rvDnRBPr_ncYW4UCZjg|Referer=https://www.youtube.com/
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
@@ -70,7 +70,7 @@ https://stream2.smg.my/live/tvsplus.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=TV3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCYSWhAYrVIebRJ8CwPRvt0Q|Referer=https://www.youtube.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd|Referer=https://www.indihometv.com
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png" group-title="HIBURAN",HBO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -81,7 +81,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s",Sky Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-https://bintangstreaming.my.id/connect/index.m3u8?channel=digi1&type=m3u8|Referer=https://cool-tv.net/
 http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|Referer=http://www.dens.tv/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="HIBURAN",Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -176,7 +175,7 @@ http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/245828.ts
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/245828.ts
 http://superintendent.whatevergos.com:8080/live/ABDULLAH/aHVzDrpCMh/142752.m3u8
 http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/89.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
@@ -197,19 +196,18 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-https://bintangstreaming.my.id/connect/index.m3u8?channel=digi1&type=m3u8|Referer=https://cool-tv.net/
 http://dfkkh.dtwkaf.xyz:80/live/829119166/117784998/4231155.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="DAKWAH",MadaniTV10
-https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+#https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+#https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="HIBURAN",SONY PIX
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",sports TV
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 #EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6430003:378:CHANNEL:IMAGE:png&w=150&appID=TONTON" group-title="ASIA" ,tvN MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
