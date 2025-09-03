@@ -140,8 +140,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="OLAHRAGA",DAZN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448848.m3u8
-http://viphlvp.xyz:8080/live/Germanaguilar/Germanaguilar2024/144755.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400218246.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
