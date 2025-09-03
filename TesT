@@ -101,10 +101,10 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448848.m3u8
-#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",&Flix
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",eTV
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 http://194.42.205.99:8070/F28312/cc1dc138/298526
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png",FOX Sports
@@ -186,7 +186,7 @@ http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/245828.ts
-http://superintendent.whatevergos.com:8080/live/ABDULLAH/aHVzDrpCMh/142752.m3u8
+#http://superintendent.whatevergos.com:8080/live/ABDULLAH/aHVzDrpCMh/142752.m3u8
 http://zqwkakq.sakuravpn.xyz:900/live/0419634994/4884966970/89.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
@@ -208,7 +208,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 http://dfkkh.dtwkaf.xyz:80/live/829119166/117784998/4231155.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="DAKWAH",MadaniTV10
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="DAKWAH",Madani10
 #https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
