@@ -99,21 +99,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/640px-SSC_TV_logo.svg.png" group-title="OLAHRAGA",360
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/640px-SSC_TV_logo.svg.png" group-title="OLAHRAGA",Матч
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400448848.m3u8
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=US7sA_eyTUmiBMoZQp-bUw&e=1757402093&scheme=https
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",& Flix
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 http://194.42.205.99:8070/F28312/cc1dc138/298526
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png",FOX Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+http://alphaplayer.ddns.net:25461/blaynielly@gmail.com/ba919454f7753219fbf37f07a2b2641aba1ff61e7b04c8db78ca78b9208f4cf169131aed679d126f5fc7d1eb598ff1c39ab89b92d5ad01197a7870d4e721457b/6847
 #EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="ASIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movies
@@ -140,7 +140,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="OLAHRAGA",STAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="OLAHRAGA",STAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
@@ -185,7 +185,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png",Das Erste
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",beIN Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",beIN Sport
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -206,7 +206,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="OLAHRAGA",ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/EspnEnVivo.png" group-title="OLAHRAGA",ESPN
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
