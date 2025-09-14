@@ -71,11 +71,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="LOKAL",DMAX
 https://e.siar.us/live/dmtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="ASIA",TV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="ASIA",JooTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#https://stream2.smg.my/live/tvsplus.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://rocket-tv.online/redtube/randomyt.m3u8?id=UC_KYVOU2lpXpuSsQ5JI6xvg
