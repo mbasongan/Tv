@@ -16,8 +16,8 @@ https://why.biz.id/Iptv/oxygen.php?id=vtv
 http://103.226.232.199:9003/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.0.0.1" group-title="ANAK",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://popmi.my.id/tes.m3u8?id=1561
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/rtv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8|Referer=http://www.dens.tv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/f/ff/20690510-designstyle-friends-u.png/revision/latest/thumbnail/width/360/height/360?cb=20201019190737" group-title="ANAK",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -87,12 +87,12 @@ https://tvstreamcast.com/tawaftv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=8121&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=8121&type=dash
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s",Sky 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s",SKY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/123830
-http://vipgerretger.top:8080/live/VIP0191169590311424/51695903114889/136499.ts
+http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/136499
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="HIBURAN",Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -112,6 +112,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=US
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://103.179.182.117:6768/hls/33/33.m3u8
 http://194.42.205.99:8070/F28312/cc1dc138/298526
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png",FOX Sports
@@ -119,7 +120,8 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 http://alphaplayer.ddns.net:25461/blaynielly@gmail.com/ba919454f7753219fbf37f07a2b2641aba1ff61e7b04c8db78ca78b9208f4cf169131aed679d126f5fc7d1eb598ff1c39ab89b92d5ad01197a7870d4e721457b/6847
-#EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="ASIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Bollywood
+#EXTINF:-1 tvg-id="ZeeBioskop.id" ch-number="23" group-title="ASIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",ATV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -127,7 +129,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 #EXTINF: -1 tvg-logo="https://www.allradio.net/500/BwlVSEo-bWnbhhMq64uai.webp" group-title="MUSIK",Radio Hits
-http://103.179.182.117:6768/hls/13/13.m3u8
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
@@ -141,7 +142,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PJWY662/Salingsapatv.png" group-title="DAKWAH",salingsapaTV
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="HIBURAN",AlJazeera 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="ASIA",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png" group-title="HIBURAN",Galaxy Premium
@@ -212,10 +213,11 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="HIBURAN",MNX
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="ASIA",Honocoroko
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="ASIA",Hanacaraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+http://103.179.182.117:6768/hls/13/13.m3u8
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/EspnEnVivo.png" group-title="OLAHRAGA",ESPN
 #EXTVLCOPT:network-caching=1000
@@ -231,7 +233,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="HIBURAN",SONY PIX
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",sports TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="OLAHRAGA",360
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -246,7 +248,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASIA",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="OLAHRAGA",ORF
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
