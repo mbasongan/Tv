@@ -78,7 +78,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC_KYVOU2lpXpuSsQ5JI6xvg
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UC_KYVOU2lpXpuSsQ5JI6xvg
 https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd|Referer=https://www.indihometv.com
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JZIC3x9.png" group-title="HIBURAN",Rock Action
@@ -185,7 +185,7 @@ http://sc.id-tv.kz/Mir24.m3u8
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8|Referer=https://televizor24tochka.ru/
 #EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",Musik Indonesia
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://mic.siar.us/mic/live/mic.m3u8
+#https://mic.siar.us/mic/live/mic.m3u8
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165844
 #EXTINF:-1 tvg-logo="https://iili.io/d93wOtS.png" group-title="EURO",RAI italia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -202,7 +202,7 @@ http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/245828
-#http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 http://zqwkakq.sakuravpn.xyz:900/0419634994/4884966970/89
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="MUSIK" ,Muzik Arabic
