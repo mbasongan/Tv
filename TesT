@@ -108,7 +108,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|Referer=http://www.dens.tv/
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=US7sA_eyTUmiBMoZQp-bUw&e=1757402093&scheme=https
-#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",& Flix
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="HIBURAN",Flik
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -132,6 +132,7 @@ https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://playlist.x10.mx/youtube/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 https://popmi.my.id/tes.m3u8?id=6852
 https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=6852
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -149,7 +150,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="OLAHRAGA",STAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="OLAHRAGA",STARZ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
