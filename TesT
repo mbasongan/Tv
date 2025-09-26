@@ -223,9 +223,9 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-http://dfkkh.dtwkaf.xyz:80/live/829119166/117784998/4231155.ts
+#https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011
+http://dfkkh.dtwkaf.xyz:80/live/829119166/117784998/4231155
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="ASIA",Fortune
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
