@@ -222,8 +222,9 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#http://sinalprivado.info:80/632035/GqGcFV4ntu/22011
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+http://sinalprivado.info:80/632035/GqGcFV4ntu/22011
 http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231155
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="ASIA",Fortune
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
