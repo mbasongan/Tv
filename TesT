@@ -217,8 +217,8 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|Referer=https://covoslivechannels2dash.clarovideo.com/
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|Referer=https://covoslivechannels2dash.clarovideo.com/
 http://sinalprivado.info:80/632035/GqGcFV4ntu/22011
 http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231155
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="ASIA",Fortune
@@ -235,7 +235,7 @@ http://15.235.181.35/live.ts?channelId=189&uid=316&deviceMac=00:1A:79:01:04:AC&r
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://cool-tv.net/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=digisports3&type=m3u8|Referer=https://cool-tv.net/
 #EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6430003:378:CHANNEL:IMAGE:png&w=150&appID=TONTON" group-title="ASIA" ,tvN MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
