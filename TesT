@@ -98,9 +98,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://world-proxifier.xyz/daddylive_go/p/C4MWCOIREU5TCKLZNMLCSXSAI4DQMAAQDJ4XKZDTMY4GMZRHMMXHO2ACAYFQCVAABECGU/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+http://dvdv.org:2082/001562/001562/39652
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-logo="https://iili.io/2rSp1ZQ.png" group-title="ASIA",GMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
