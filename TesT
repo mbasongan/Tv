@@ -108,9 +108,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 https://world-proxifier.xyz/daddylive_go/p/C4MWCOIREU5TCKLZNMLCSXSAI4DQMAAQDJ4XKZDTMY4GMZRHMMXHO2ACAYFQCVAABECGU/index.m3u8
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/443531.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+https://popmi.my.id/tes.m3u8?id=6852
 http://dvdv.org:2082/001562/001562/39652
 https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:-1 tvg-logo="https://iili.io/2rSp1ZQ.png" group-title="ASIA",GMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
