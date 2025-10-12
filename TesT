@@ -103,13 +103,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-#EXTINF: -1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/canal-plus.png" group-title="OLAHRAGA",+360
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png" group-title="OLAHRAGA",SKY
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#https://world-proxifier.xyz/daddylive_go/p/C4MWCOIREU5TCKLZNMLCSXSAI4DQMAAQDJ4XKZDTMY4GMZRHMMXHO2ACAYFQCVAABECGU/index.m3u8
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/443531.m3u8
+https://raw.githubusercontent.com/mbasongan/play/refs/heads/main/uno.m3u8
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOIREU5TCKLZNMLCSXSAI4DQMAAQDJ4XKZDTMY4GMZRHMMXHO2ACAYFQCVAABECGU/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/98ogdvVfFrQMZfC9Pif69riNjK-iYK_Q8RDFX3dS5NyBTbmyKhICdEkSyk8ZLeTVuZyl=w480-h960-rw" group-title="DAKWAH",Makkah
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 https://popmi.my.id/tes.m3u8?id=6852
