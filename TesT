@@ -89,7 +89,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="ASIA",India
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/640px-Flag_of_India.svg.png" group-title="ASIA",India
 #https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -98,7 +98,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #https://maldivesn.net/hilaytv/jsport3
 https://mt01.utako.moe/js3/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|Referer=http://www.dens.tv/
-#EXTINF:-1 group-title="ASIA" tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",China
+#EXTINF:-1 group-title="ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/960px-Flag_of_China.png",China
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
@@ -116,7 +116,7 @@ https://popmi.my.id/tes.m3u8?id=6852
 http://dvdv.org:2082/001562/001562/39652
 https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTINF:-1 tvg-logo="https://iili.io/2rSp1ZQ.png" group-title="ASIA",Philipine 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/960px-Flag_of_the_Philippines.svg.png" group-title="ASIA",Philipine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
@@ -124,7 +124,7 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="ASIA",AlJazeera 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/960px-Flag_of_Qatar.svg.png" group-title="ASIA",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/ce/d6/a4ced68af2baaaedae5e34e1fd3d64cf.jpg" group-title="HIBURAN",Galaxy Premium
@@ -149,19 +149,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
-#EXTINF:-1 group-title="ASIA" tvg-logo="https://i.imgur.com/HXFNbuc.png",Thailand
+#EXTINF:-1 group-title="ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/640px-Flag_of_Thailand.svg.png",Thailand
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2021/01/insan.png",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
-#EXTINF:-1 group-title="EURO" tvg-logo="https://i.imgur.com/9r1BKzK.png",Russia
+#EXTINF:-1 group-title="EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Russia.png/640px-Flag_of_Russia.png",Russia
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://sc.id-tv.kz/Mir24.m3u8
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8|Referer=https://televizor24tochka.ru/
-#EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",Musik Indonesia
+#EXTINF:-1 group-title="MUSIK" tvg-id="00" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1",MusikPlus
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://malang.staratv.id/hls/stream.m3u8
 https://mic.siar.us/mic/live/mic.m3u8
@@ -176,7 +176,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png",Germany
+#EXTINF:-1 group-title="EURO" tvg-id="imtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/960px-Flag_of_Germany.svg.png",Germany
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="OLAHRAGA",beIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -197,7 +197,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|Referer=https://covoslivechannels2dash.clarovideo.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/China_Movie_Channel_2000.png/revision/latest?cb=20241014124331" group-title="ASIA",Myanmar 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/960px-Flag_of_Myanmar.svg.png" group-title="ASIA",Myanmar 
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
@@ -207,16 +207,15 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
-#EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6430003:378:CHANNEL:IMAGE:png&w=150&appID=TONTON" group-title="ASIA" ,Korea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_South_Korea.png/640px-Flag_of_South_Korea.png" group-title="ASIA" ,Korea
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="ASIA",Malaysia
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/26.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Malaysia.png/960px-Flag_of_Malaysia.png" group-title="ASIA",Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://stream2.smg.my/live/tvsplus.m3u8
 
