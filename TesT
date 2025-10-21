@@ -93,9 +93,9 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="OLAHRAGA",JSports
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="OLAHRAGA",SPORTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#https://maldivesn.net/hilaytv/jsport3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
 https://mt01.utako.moe/js3/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|Referer=http://www.dens.tv/
 #EXTINF:-1 group-title="ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/960px-Flag_of_China.png",Chinese
@@ -199,13 +199,11 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="OLAHRAGA",SPORT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://raw.githubusercontent.com/mbasongan/play/refs/heads/main/sp1.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_South_Korea.png/640px-Flag_of_South_Korea.png" group-title="ASIA" ,Korea
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
