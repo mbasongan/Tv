@@ -83,7 +83,7 @@ https://bitter-boa-67.deno.dev/play.mpd?id=8121&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="OLAHRAGA",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -156,6 +156,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2021/01/insan.png",insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1)
 #EXTINF:-1 group-title="EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Russia.png/640px-Flag_of_Russia.png",Russia
+http://iptv46.mcx-ix.ru:8077/tv3/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://sc.id-tv.kz/Mir24.m3u8
