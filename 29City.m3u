@@ -69,9 +69,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|Referer=http://www.dens
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqiKj7s.png" group-title="DAKWAH",Muslim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#https://rocket-tv.online/redtube/randomyt.m3u8?id=UC_KYVOU2lpXpuSsQ5JI6xvg
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JZIC3x9.png" group-title="HIBURAN",Rock Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -123,7 +123,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ASIA",AlJazeera 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/ce/d6/a4ced68af2baaaedae5e34e1fd3d64cf.jpg" group-title="HIBURAN",Galaxy Premium
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a4/ce/d6/a4ced68af2baaaedae5e34e1fd3d64cf.jpg" group-title="HIBURAN",Galaxy 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -136,7 +136,6 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|Referer=https://cool-tv.net/
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400218246.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-neRxHiZYGAA/WU_aJil_znI/AAAAAAAAAOs/cR0gb1a9NGU3sQuoLe6gSJtIb7vHFXpBgCLcBGAs/s1600/2016-01-14--14_11_51.jpg" group-title="DAKWAH",Rodja
-https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/604px-MTV-Logo.svg.png" group-title="MUSIK",MTV 90s
